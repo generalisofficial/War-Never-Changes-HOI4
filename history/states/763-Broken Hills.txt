@@ -1,0 +1,41 @@
+
+state={
+	id=763
+	name="STATE_763"
+	manpower = 3500
+	
+	state_category = city
+	
+	resources={
+		uranium=320
+		steel=20	
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 1
+
+
+		}
+                add_core_of = NCR
+		add_core_of = MUT
+		
+		
+				victory_points = {
+			11698 10 
+		}
+		
+		
+
+	}
+	
+
+		
+
+	provinces={
+	  11698
+	}
+}

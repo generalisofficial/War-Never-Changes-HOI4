@@ -1,0 +1,22 @@
+state={
+	id=830
+	name="STATE_830"
+	history={
+		owner = MLR
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = MLR
+		victory_points = {
+		     13252 1 
+		}
+		
+
+	}
+	provinces={
+		13252 
+	}
+	manpower=5
+	buildings_max_level_factor=1.000
+        state_category=enclave
+}

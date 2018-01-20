@@ -1,0 +1,23 @@
+state={
+	id=834
+	name="STATE_834"
+	history={
+		owner = RAI
+		buildings = {
+			infrastructure = 4
+		}
+		add_claim_by = FEG
+                add_core_of = RAI
+		victory_points = {
+		     13256 1 
+		}
+		
+
+	}
+	provinces={
+		13256 
+	}
+	manpower=19
+	buildings_max_level_factor=1.000
+        state_category=town
+}

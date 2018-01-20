@@ -1,0 +1,22 @@
+state={
+	id=827
+	name="STATE_827"
+	history={
+		owner = ATC
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = ATC
+		victory_points = {
+		     13249 5 
+		}
+		
+
+	}
+	provinces={
+		13249 
+	}
+	manpower=20
+	buildings_max_level_factor=1.000
+        state_category=town
+}

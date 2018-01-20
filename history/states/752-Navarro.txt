@@ -1,0 +1,40 @@
+
+state={
+	id=752
+	name="STATE_752"
+	manpower = 1000
+	
+	state_category = large_city
+	
+	resources={
+		steel=50
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 8
+			arms_factory = 5
+			industrial_complex = 4
+			dockyard = 1
+			air_base = 5
+
+			6681 = {
+				naval_base = 1
+			}
+			
+		}
+                add_core_of = NCR
+		add_core_of = ENC
+				victory_points = {
+			6681 20 
+		}
+
+	}
+	
+
+
+	provinces={
+	  677 6757 6681
+	}
+}

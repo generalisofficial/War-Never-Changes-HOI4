@@ -1,0 +1,24 @@
+state={
+	id=855
+	name="STATE_855"
+	history={
+		owner = GUN
+		buildings = {
+			infrastructure = 5
+                        industrial_complex = 1
+		}
+                add_core_of = GUN
+                add_core_of = MNM
+		victory_points = {
+		     13273 5 
+		}
+		
+
+	}
+	provinces={
+		13273 
+	}
+	manpower=154
+	buildings_max_level_factor=1.000
+        state_category=town
+}

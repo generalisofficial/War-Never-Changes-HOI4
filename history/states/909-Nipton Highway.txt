@@ -1,0 +1,17 @@
+state={
+	id=909
+	name="STATE_909"
+history={
+		owner = NCR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = NCR
+	}
+	provinces={
+		13305 
+	}
+	manpower=2
+	buildings_max_level_factor=1.000
+                state_category=rural
+}

@@ -1,0 +1,170 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 2281.10.19.12
+		picture = "GFX_select_date_1936"
+		default_country = "NCR"
+		default = yes
+		
+		"NCR"={
+			history = "NCR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"CEL"={
+			history = "CEL_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"NVE"={
+			history = "NVE_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		"CCA"={
+			minor = yes
+			history = "CCA_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"FRE"={
+			minor = yes
+			history = "FRE_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"TAB"={
+			minor = yes
+			history = "TAB_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"MKA"={
+			minor = yes
+			history = "MKA_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"BOM"={
+			minor = yes
+			history = "BOM_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"BOO"={
+			minor = yes
+			history = "BOO_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"VUT"={
+			minor = yes
+			history = "CZE_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		"POG"={
+			minor = yes
+			history = "POG_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		"ROM"={
+			minor = yes
+			history = "ROM_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				ROM_king_carol_ii_hedonist
+				neutrality_idea
+			}
+			focuses = {
+				ROM_balkans_dominance
+				ROM_institute_royal_dictatorship
+				ROM_preserve_greater_romania
+			}
+		}
+		
+		"YUG"={
+			minor = yes
+			history = "YUG_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				anti_german_military
+				YUG_idea_croatian_opposition
+				YUG_idea_serbian_general_staff
+			}
+			focuses = {
+				YUG_western_focus
+				YUG_abolish_the_monarchy
+				YUG_establish_the_banovina_of_croatia
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

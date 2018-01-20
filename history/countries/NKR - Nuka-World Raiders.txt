@@ -1,0 +1,80 @@
+﻿capital = 918
+
+oob = "NWR_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 40
+		}
+
+		fascism = {
+			popularity = 20
+		}
+		
+		communism = {
+			popularity = 20
+			#banned = no #default is no
+		}
+		
+		neutrality = { 
+			popularity = 20
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Colter"
+	desc = "POLITICS_COLTER_DESC"
+	picture = "Colter.dds"
+	expire = "2300.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Nisha"
+	desc = "POLITICS_NISHA_DESC"
+	picture = "Nisha.dds"
+	expire = "2300.1.1"
+	ideology = anarchist_communism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mason"
+	desc = "POLITICS_MASON_DESC"
+	picture = "Mason.dds"
+	expire = "2300.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Mags Black"
+	desc = "POLITICS_MAGS_DESC"
+	picture = "Mags.dds"
+	expire = "2300.1.1"
+	ideology = oligarchism
+	traits = {
+		#
+	}
+}

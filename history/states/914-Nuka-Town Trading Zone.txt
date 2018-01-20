@@ -1,0 +1,20 @@
+state={
+	id=914
+	name="STATE_914"
+             history={
+		owner = NWT
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = NWT
+                                victory_points = {
+		     13312 5 
+		}
+	}
+	provinces={
+		13312 
+	}
+	manpower=87
+	buildings_max_level_factor=1.000
+                state_category=city
+}

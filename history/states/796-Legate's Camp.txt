@@ -1,0 +1,21 @@
+state={
+	id=796
+	name="STATE_796"
+	history={
+		owner = CEL
+		buildings = {
+			infrastructure = 3		
+		}
+                add_core_of = CEL		
+		victory_points = {
+			13225 5
+		}
+	
+	}
+	provinces={
+		13225 
+	}
+	manpower=98
+	buildings_max_level_factor=1.000
+        state_category=rural
+}

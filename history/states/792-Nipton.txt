@@ -1,0 +1,32 @@
+state={
+	id=792
+	name="STATE_792"
+	manpower = 19	
+	state_category = town
+	history={
+		owner = CEL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+			
+
+
+		}
+                add_core_of = NCR
+                add_claim_by = CEL		
+		victory_points = {
+			13208 5 
+		}
+	
+	
+	}
+	
+	
+	
+	provinces={
+		13208 
+	}
+
+}

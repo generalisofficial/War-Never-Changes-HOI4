@@ -1,0 +1,354 @@
+
+music = {
+	name = "AccentuateThePositive"
+	file = "AccentuateThePositive.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AnythingGoes"
+	file = "AnythingGoes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AtomBombBaby"
+	file = "AtomBombBaby.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AWonderfulGuy"
+	file = "AWonderfulGuy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BoogieMan"
+	file = "BoogieMan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Butcher Pete"
+	file = "Butcher Pete.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Civilization"
+	file = "Civilization.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CrawlOutThroughTheFallout"
+	file = "CrawlOutThroughTheFallout.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "CrazyHeCallsMe"
+	file = "CrazyHeCallsMe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "DearHeartsAndGentlePeople"
+	file = "DearHeartsAndGentlePeople.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "EasyLiving"
+	file = "EasyLiving.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "FoxBoogie"
+	file = "FoxBoogie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GoodRockinTonight"
+	file = "GoodRockinTonight.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GrandmaPlaysTheNumbers"
+	file = "GrandmaPlaysTheNumbers.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HappyTimes"
+	file = "HappyTimes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HesADemonHesADevilHesADoll"
+	file = "HesADemonHesADevilHesADoll.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IDontWantToSetTheWorldOnFire"
+	file = "IDontWantToSetTheWorldOnFire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ImTickledPink"
+	file = "ImTickledPink.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "IntoEachLifeSomeRainMustFall"
+	file = "IntoEachLifeSomeRainMustFall.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ItsAllOverButTheCrying"
+	file = "ItsAllOverButTheCrying.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ItsAMan"
+	file = "ItsAMan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ItsTheEndOfTheWorld"
+	file = "ItsTheEndOfTheWorld.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "JazzyInterlude"
+	file = "JazzyInterlude.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "JollyDays"
+	file = "JollyDays.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KeepAKnockin"
+	file = "KeepAKnockin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "LetsGoSunning"
+	file = "LetsGoSunning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Maybe"
+	file = "Maybe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MightyMightyMan"
+	file = "MightyMightyMan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OneMoreTomorrow"
+	file = "OneMoreTomorrow.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "OrangeColoredSky"
+	file = "OrangeColoredSky.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Personality"
+	file = "Personality.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "PistolPackinMama"
+	file = "PistolPackinMama.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RightBehindYouBaby"
+	file = "RightBehindYouBaby.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Rocket69"
+	file = "Rocket69.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "RythmForYou"
+	file = "RythmForYou.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SixtyMinuteMan"
+	file = "SixtyMinuteMan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SwingDoors"
+	file = "SwingDoors.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TheWanderer"
+	file = "TheWanderer.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Undecided"
+	file = "Undecided.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "UraniumFever"
+	file = "UraniumFever.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "UraniumRock"
+	file = "UraniumRock.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WayBackHome"
+	file = "WayBackHome.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WholeLatteShakinGoingOn"
+	file = "WholeLatteShakinGoingOn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WorryWorryWorry"
+	file = "WorryWorryWorry.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AintThatAKickInTheHead"
+	file = "AintThatAKickInTheHead.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "AmericanSwing"
+	file = "AmericanSwing.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BigIron"
+	file = "BigIron.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BlueMoon"
+	file = "BlueMoon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HeartachesByTheNumber"
+	file = "HeartachesByTheNumber.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ItsASinToTellALie"
+	file = "ItsASinToTellALie.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "JingleJangleJingle"
+	file = "JingleJangleJingle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "JohnnyGuitar"
+	file = "JohnnyGuitar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "LoveMeAsThoughThereWereNoTomorrow"
+	file = "LoveMeAsThoughThereWereNoTomorrow.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MadAboutTheBoy"
+	file = "MadAboutTheBoy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "MadAboutTheBoy"
+	file = "MadAboutTheBoy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WhereHaveYouBeenAllMyLife"
+	file = "WhereHaveYouBeenAllMyLife.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "SomethingsGottaGive"
+	file = "SomethingsGottaGive.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "BeginAgain"
+	file = "BeginAgain.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "WhyDontYouDoRight"
+	file = "WhyDontYouDoRight.ogg"
+	volume = 0.65
+}

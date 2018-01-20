@@ -1,0 +1,25 @@
+
+state={
+	id=370
+	name="STATE_370"
+
+	history={
+		owner = BTS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = BTS
+                                 victory_points = {
+			8110 10 
+		}
+
+	}
+
+	provinces={
+		1615 8110 10753 11717 12429 
+	}
+	manpower=2657
+	buildings_max_level_factor=1.000
+	state_category=city
+}

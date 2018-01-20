@@ -1,0 +1,34 @@
+state={
+	id=775
+	name="STATE_775"
+	
+	manpower=4500
+
+	state_category=city
+	
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 4
+			industrial_complex = 2
+
+
+		}
+                add_core_of = NCR
+		add_core_of = RAI
+
+			victory_points = {
+			3840 5 
+		}
+	
+		
+
+	}
+
+	
+	provinces={
+		3677 3678 3840 9637 
+	}
+	
+}

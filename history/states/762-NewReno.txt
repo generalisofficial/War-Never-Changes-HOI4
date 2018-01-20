@@ -1,0 +1,39 @@
+
+state={
+	id=762
+	name="STATE_762"
+	manpower = 6850
+	
+	state_category = metropolis
+	
+	resources={
+		tungsten=40
+		rubber=50
+		oil=70
+	}
+
+	history={
+		owner = NWR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+
+
+		}
+		add_core_of = NWR
+		
+				victory_points = {
+			9697 10 
+		}
+		
+		
+	
+	}
+	
+
+		
+
+	provinces={
+	  9697
+	}
+}

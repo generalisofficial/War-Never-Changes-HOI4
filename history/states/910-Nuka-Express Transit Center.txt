@@ -1,0 +1,20 @@
+state={
+	id=910
+	name="STATE_910"
+                history={
+		owner = GUN
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = GUN
+                       victory_points = {
+		     13307 1 
+		}
+	}
+	provinces={
+		13307 
+	}
+	manpower=14
+	buildings_max_level_factor=1.000
+                state_category=town
+}

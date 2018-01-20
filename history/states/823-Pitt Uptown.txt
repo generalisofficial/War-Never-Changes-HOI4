@@ -1,0 +1,22 @@
+state={
+	id=823
+	name="STATE_823"
+	history={
+		owner = PIT
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = PIT
+		victory_points = {
+		     13244 20 
+		}
+		
+
+	}
+	provinces={
+		13244 
+	}
+	manpower=89
+	buildings_max_level_factor=1.000
+        state_category=large_city
+}

@@ -1,0 +1,21 @@
+state={
+	id=814
+	name="STATE_814"
+	history={
+		owner = MKM
+		buildings = {
+			infrastructure = 1
+		}	
+		add_core_of = MKM	
+		victory_points = {
+			13239 1
+		}
+
+	}
+	provinces={
+		13239 
+	}
+	manpower=20
+	buildings_max_level_factor=1.000
+        state_category=rural
+}

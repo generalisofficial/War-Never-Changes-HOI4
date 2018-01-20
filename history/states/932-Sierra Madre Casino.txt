@@ -1,0 +1,22 @@
+state={
+	id=932
+	name="STATE_932"
+                history={
+		owner = GST
+		buildings = {
+			infrastructure = 4
+                                                arms_factory = 1
+		}
+                               victory_points = {
+		     13324 20 
+		}
+                     add_core_of = GST
+                     add_claim_by = ELJ
+	}  
+	provinces={
+		13324 
+	}
+	manpower=294
+	buildings_max_level_factor=1.000
+                state_category=large_city
+}

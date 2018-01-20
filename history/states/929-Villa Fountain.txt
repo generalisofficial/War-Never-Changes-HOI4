@@ -1,0 +1,22 @@
+state={
+	id=929
+	name="STATE_929"
+                history={
+		owner = ELJ
+		buildings = {
+			infrastructure = 3
+                                                arms_factory = 1
+		}
+                               victory_points = {
+		     13327 1 
+		}
+                     add_core_of = ELJ
+                     add_claim_by = GST
+	}  
+	provinces={
+		13327 
+	}
+	manpower=7
+	buildings_max_level_factor=1.000
+                state_category=town
+}

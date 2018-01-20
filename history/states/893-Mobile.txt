@@ -1,0 +1,21 @@
+state={
+	id=893
+	name="STATE_893"
+	history={
+		owner = SWP
+		buildings = {
+			infrastructure = 4
+                                                industrial_complex = 1
+		}
+                                 victory_points = {
+			7480 5 
+		}
+		add_core_of = SWP
+	}
+	provinces={
+		7480 10520 
+	}
+	manpower=798
+	buildings_max_level_factor=1.000
+                state_category=town
+}

@@ -1,0 +1,20 @@
+state={
+	id=913
+	name="STATE_913"
+               history={
+		owner = NHU
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = NHU
+                                 victory_points = {
+		     13310 5 
+		}
+	}
+	provinces={
+		13310 
+	}
+	manpower=20
+	buildings_max_level_factor=1.000
+                state_category=town
+}

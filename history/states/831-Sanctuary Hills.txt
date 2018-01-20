@@ -1,0 +1,22 @@
+state={
+	id=831
+	name="STATE_831"
+	history={
+		owner = MNM
+		buildings = {
+			infrastructure = 5
+		}
+                add_core_of = MNM
+		victory_points = {
+		     13253 5 
+		}
+		
+
+	}
+	provinces={
+		13253 
+	}
+	manpower=15
+	buildings_max_level_factor=1.000
+        state_category=town
+}

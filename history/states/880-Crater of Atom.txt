@@ -1,0 +1,14 @@
+state={
+	id=880
+	name="STATE_880"
+	history={
+		owner = ATM
+                add_core_of = ATM	
+	}
+	provinces={
+		13297 
+	}
+	manpower=11
+	buildings_max_level_factor=1.000
+        state_category=rural
+}

@@ -1,0 +1,22 @@
+state={
+	id=846
+	name="STATE_846"
+	history={
+		owner = TPF
+		buildings = {
+			infrastructure = 3
+                                                industrial_complex = 1
+		}
+		add_core_of = TPF
+                                add_core_of = TEX
+                                victory_points = {
+		     5038 1 
+		}
+	}
+	provinces={
+		1954 5038 10740 10894 
+	}
+	manpower=178
+	buildings_max_level_factor=1.000
+                state_category=pastoral
+}

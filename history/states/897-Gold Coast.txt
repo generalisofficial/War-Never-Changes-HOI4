@@ -1,0 +1,18 @@
+state={
+	id=897
+	name="STATE_897"
+	history={
+		owner = RFT
+		buildings = {
+			infrastructure = 5
+                                                industrial_complex = 2
+		}
+		add_core_of = RFT
+	}
+	provinces={
+		866 1572 9834 10489 12353 12381 12439 
+	}
+	manpower=5123
+	buildings_max_level_factor=1.000
+                state_category=city
+}

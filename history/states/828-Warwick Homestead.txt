@@ -1,0 +1,20 @@
+state={
+	id=828
+	name="STATE_828"
+	history={
+		owner = WRW
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = WRW
+		victory_points = {
+		     13250 1 
+		}
+	}
+	provinces={
+		13250 
+	}
+	manpower=6
+	buildings_max_level_factor=1.000
+        state_category=pastoral
+}

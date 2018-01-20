@@ -1,0 +1,22 @@
+state={
+	id=876
+	name="STATE_876"
+	history={
+		owner = MLR
+		buildings = {
+			infrastructure = 3
+		}
+                add_core_of = MLR
+		victory_points = {
+		     13294 1 
+		}
+		
+
+	}
+	provinces={
+		13294 
+	}
+	manpower=9
+	buildings_max_level_factor=1.000
+        state_category=town
+}

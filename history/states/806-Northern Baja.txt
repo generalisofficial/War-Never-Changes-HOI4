@@ -1,0 +1,22 @@
+
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NCR
+
+	}
+
+	provinces={
+		1892 7964 12461 12859 
+	}
+	manpower=79
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,24 @@
+state={
+	id=860
+	name="STATE_860"
+	history={
+		owner = GNB
+		buildings = {
+			infrastructure = 7
+                        industrial_complex = 3
+                        arms_factory = 1
+		}
+                add_core_of = GNB
+		victory_points = {
+		     13279 20 
+		}
+		
+
+	}
+	provinces={
+		13279 
+	}
+	manpower=243
+	buildings_max_level_factor=1.000
+        state_category=large_city
+}

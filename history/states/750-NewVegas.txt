@@ -1,0 +1,35 @@
+
+state={
+	id=750
+	name="STATE_750"
+	manpower = 8500
+	
+	state_category = megalopolis
+	
+	resources={
+		steel=150
+		tungsten=60
+		aluminium=40
+	}
+
+	history={
+		owner = NVE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		add_core_of = NVE
+		
+				victory_points = {
+			4799 30 
+		}
+	}
+	
+
+		
+
+	provinces={
+		4799
+	}
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=769
+	name="STATE_769"
+	manpower = 4500
+	
+	state_category = large_city
+	
+	resources={
+		steel=150
+		oil=100
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 4
+
+			industrial_complex = 2
+
+
+		}
+		add_core_of = NCR
+		add_core_of = JUN
+		
+			victory_points = {
+			11763 10 
+		}
+
+		
+
+	}
+	
+
+	provinces={
+	  11763
+	}
+}

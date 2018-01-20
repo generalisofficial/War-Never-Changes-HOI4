@@ -1,0 +1,26 @@
+
+state={
+	id=890
+	name="STATE_890"
+
+	history={
+		owner = MTU
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = MTU
+		victory_points = {
+			7615 10 
+		}
+
+	}
+
+	provinces={
+		1987 7615 7797 10586 10615 
+	}
+	manpower=3731
+	buildings_max_level_factor=1.000
+	state_category=town
+}

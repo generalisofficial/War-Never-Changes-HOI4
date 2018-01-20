@@ -1,0 +1,22 @@
+state={
+	id=871
+	name="STATE_871"
+	history={
+		owner = MUT
+		buildings = {
+			infrastructure = 4
+		}
+                add_core_of = MUT
+		victory_points = {
+		     13291 1 
+		}
+		
+
+	}
+	provinces={
+		13291 
+	}
+	manpower=46
+	buildings_max_level_factor=1.000
+        state_category=town
+}

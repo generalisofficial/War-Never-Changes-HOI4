@@ -1,0 +1,648 @@
+music = {
+	song = "AccentuateThePositive"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AnythingGoes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AtomBombBaby"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AWonderfulGuy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "BoogieMan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Butcher Pete"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Civilization"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "CrawlOutThroughTheFallout"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "CrazyHeCallsMe"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "DearHeartsAndGentlePeople"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "EasyLiving"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "FoxBoogie"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "GoodRockinTonight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "GrandmaPlaysTheNumbers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "HappyTimes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "HesADemonHesADevilHesADoll"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "IDontWantToSetTheWorldOnFire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "ImTickledPink"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "IntoEachLifeSomeRainMustFall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "ItsAllOverButTheCrying"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "ItsAMan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "ItsTheEndOfTheWorld"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "JazzyInterlude"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "JollyDays"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "KeepAKnockin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "LetsGoSunning"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Maybe"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "MightyMightyMan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "OneMoreTomorrow"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "OrangeColoredSky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Personality"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "PistolPackinMama"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "RightBehindYouBaby"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Rocket69"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "RythmForYou"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "SixtyMinuteMan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "SwingDoors"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "TheWanderer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Undecided"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "UraniumFever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "UraniumRock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "WayBackHome"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "WholeLatteShakinGoingOn"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "WorryWorryWorry"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AintThatAKickInTheHead"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AmericanSwing"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "BigIron"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "BlueMoon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "HeartachesByTheNumber"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "ItsASinToTellALie"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "JingleJangleJingle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "JohnnyGuitar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "LoveMeAsThoughThereWereNoTomorrow"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "MadAboutTheBoy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "SomethingsGottaGive"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "WhereHaveYouBeenAllMyLife"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "AKissToBuildADreamOn"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "BeginAgain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "WhyDontYouDoRight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}

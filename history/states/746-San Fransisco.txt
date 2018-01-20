@@ -1,0 +1,38 @@
+
+state={
+	id=746
+	name="STATE_746"
+	manpower = 8500
+	
+	state_category = metropolis
+	
+	resources={
+		steel=10
+		tungsten=50
+	}
+
+	history={
+		owner = SNF
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 8
+
+		}
+		add_core_of = SNF
+		
+			victory_points = {
+			9671 20 
+		}
+		
+
+	}
+	
+	victory_points = {
+			9671 20 
+		}
+
+	provinces={
+	9671
+	}
+}

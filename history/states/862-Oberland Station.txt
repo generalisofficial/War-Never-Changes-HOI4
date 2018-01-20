@@ -1,0 +1,23 @@
+state={
+	id=862
+	name="STATE_862"
+	history={
+		owner = OBL
+		buildings = {
+			infrastructure = 3
+                        industrial_complex = 1
+		}
+                add_core_of = OBL
+		victory_points = {
+		     13281 1 
+		}
+		
+
+	}
+	provinces={
+		13281 
+	}
+	manpower=2
+	buildings_max_level_factor=1.000
+        state_category=pastoral
+}

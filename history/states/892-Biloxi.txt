@@ -1,0 +1,25 @@
+state={
+	id=892
+	name="STATE_892"
+	history={
+		owner = SWP
+		buildings = {
+			infrastructure = 4
+                                                industrial_complex = 1
+                                                4464 = {
+				naval_base = 1
+
+			}
+		}
+                                victory_points = {
+			7668 5 
+		}
+		add_core_of = SWP
+	}
+	provinces={
+		4464 7668 
+	}
+	manpower=1052
+	buildings_max_level_factor=1.000
+                state_category=town
+}

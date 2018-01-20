@@ -1,0 +1,21 @@
+state={
+	id=912
+	name="STATE_912"
+               history={
+		owner = NKR
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NKR
+                                add_claim_by = GUN
+                               victory_points = {
+		     13309 1 
+		}
+	}
+	provinces={
+		13309 
+	}
+	manpower=8
+	buildings_max_level_factor=1.000
+                state_category=town
+}

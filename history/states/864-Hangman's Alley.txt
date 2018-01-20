@@ -1,0 +1,22 @@
+state={
+	id=864
+	name="STATE_864"
+	history={
+		owner = RAI
+		buildings = {
+			infrastructure = 3
+		}
+                add_core_of = RAI
+		victory_points = {
+		     13283 5 
+		}
+		
+
+	}
+	provinces={
+		13283 
+	}
+	manpower=9
+	buildings_max_level_factor=1.000
+        state_category=city
+}

@@ -1,0 +1,20 @@
+state={
+	id=921
+	name="STATE_921"
+                history={
+		owner = NKR
+		buildings = {
+			infrastructure = 2
+		}
+                               victory_points = {
+		     13319 1 
+		}
+                     add_core_of = NKR
+	}  
+	provinces={
+		13319 
+	}
+	manpower=21
+	buildings_max_level_factor=1.000
+                state_category=rural
+}

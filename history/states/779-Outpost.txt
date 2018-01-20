@@ -1,0 +1,36 @@
+state={
+	id=779
+	name="STATE_779"
+	
+		manpower = 149
+	
+	state_category = rural
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+
+			
+
+
+		}
+		add_core_of = NCR
+		
+			victory_points = {
+			13206 10 
+		}
+	
+	
+	}
+	
+	
+	
+	
+	
+	provinces={
+		13206 
+	}
+	
+}

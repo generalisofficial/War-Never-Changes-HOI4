@@ -1,0 +1,24 @@
+state={
+	id=819
+	name="STATE_819"
+	history={
+		owner = TAV
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = TAV
+                add_core_of = SNF
+		
+			victory_points = {
+			13243 5 
+		}
+		
+
+	}
+	provinces={
+		13243 
+	}
+	manpower=65
+	buildings_max_level_factor=1.000
+        state_category=enclave
+}

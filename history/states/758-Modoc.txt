@@ -1,0 +1,32 @@
+
+state={
+	id=758
+	name="STATE_758"
+	manpower = 3500
+	
+	state_category = city
+	
+	resources={
+		rubber=100
+		steel=100
+	}
+
+	history={
+		owner = MOD
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 3
+
+
+		}
+		add_core_of = MOD
+		
+		
+
+	}
+
+	provinces={
+	  3588
+	}
+}

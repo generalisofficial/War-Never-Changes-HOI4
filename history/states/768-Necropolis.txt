@@ -1,0 +1,39 @@
+
+state={
+	id=768
+	name="STATE_768"
+	manpower = 1200
+	
+	state_category = town
+	
+	resources={
+		steel=10
+		aluminum=40
+		rubber=30
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+
+
+		}
+		add_core_of = NCR
+		add_core_of = NEC
+		
+			victory_points = {
+			1651 5 
+		}
+		
+
+	}
+	
+
+
+	provinces={
+	  1651
+	}
+}

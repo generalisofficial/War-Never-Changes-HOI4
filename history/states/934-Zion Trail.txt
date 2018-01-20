@@ -1,0 +1,17 @@
+state={
+	id=934
+	name="STATE_934"
+                history={
+		owner = HPT
+		buildings = {
+			infrastructure = 1
+		}
+                     add_core_of = HPT
+	}  
+	provinces={
+		13330 13331 
+	}
+	manpower=26
+	buildings_max_level_factor=1.000
+                state_category=rural
+}

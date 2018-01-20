@@ -1,0 +1,40 @@
+
+state={
+	id=748
+	name="STATE_748"
+	manpower = 1000
+	
+	state_category = city
+	
+	resources={
+		steel=100
+		aluminium=50
+	}
+
+	history={
+		owner = VLT
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+
+		}
+		add_core_of = VLT
+		
+					victory_points = {
+			6699 15 
+		}
+		
+		
+	
+	}
+
+
+		
+	
+	provinces={
+	6699
+	}
+}

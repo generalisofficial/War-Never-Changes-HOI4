@@ -1,0 +1,22 @@
+state={
+	id=797
+	name="STATE_797"
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 3		
+		}
+                add_core_of = NCR	
+                add_claim_by = CEL	
+		victory_points = {
+			13226 5
+		}
+	
+	}
+	provinces={
+		13226 
+	}
+	manpower=12
+	buildings_max_level_factor=1.000
+        state_category=town
+}

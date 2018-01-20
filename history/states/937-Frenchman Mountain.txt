@@ -1,0 +1,14 @@
+state={
+	id=937
+	name="STATE_937"
+                history={
+		owner = XXX
+	}
+	provinces={
+		13333 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+                state_category=wasteland
+                impassable = yes
+}

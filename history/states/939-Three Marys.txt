@@ -1,0 +1,23 @@
+state={
+	id=939
+	name="STATE_939"
+            history={
+		owner = WTL
+		buildings = {
+			infrastructure = 1
+                                                industrial_complex = 2
+                                                arms_factory = 2
+		}
+                               victory_points = {
+		     13328 1 
+		}
+                     add_core_of = WTL
+                     add_claim_by = DED
+	}  
+	provinces={
+		13328 
+	}
+	manpower=232
+	buildings_max_level_factor=1.000
+                state_category=city
+}

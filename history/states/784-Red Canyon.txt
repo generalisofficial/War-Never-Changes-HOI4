@@ -1,0 +1,41 @@
+state={
+	id=784
+	name="STATE_784"
+	
+		manpower = 1500
+	
+	state_category = town
+	
+	resources={
+		tungsten=100
+		steel=100
+	
+
+	}
+	
+	history={
+		owner = MKA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+		
+			
+			
+
+		}
+		add_core_of = MKA
+		
+			victory_points = {
+			13218 10 
+		}
+	
+	
+	}
+	
+	
+	provinces={
+		13218 
+	}
+
+}

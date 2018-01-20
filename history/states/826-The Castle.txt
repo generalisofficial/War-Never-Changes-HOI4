@@ -1,0 +1,22 @@
+state={
+	id=826
+	name="STATE_826"
+	history={
+		owner = MNM
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = MNM
+		victory_points = {
+		     13248 15 
+		}
+		
+
+	}
+	provinces={
+		13248 
+	}
+	manpower=231
+	buildings_max_level_factor=1.000
+        state_category=enclave
+}

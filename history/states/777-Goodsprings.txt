@@ -1,0 +1,35 @@
+state={
+	id=777
+	name="STATE_777"
+	
+		manpower = 200
+	
+	state_category = large_city
+	history={
+		owner = GOD
+		buildings = {
+			infrastructure = 4
+
+			industrial_complex = 2
+			arms_factory = 2
+
+
+		}
+		
+		add_core_of = GOD
+		
+			victory_points = {
+			13210 10
+		}
+
+		
+
+	}
+	
+
+	
+	provinces={
+		13210 
+	}
+
+}

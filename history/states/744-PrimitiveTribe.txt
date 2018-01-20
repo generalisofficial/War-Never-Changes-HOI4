@@ -1,0 +1,32 @@
+
+state={
+	id=744
+	name="STATE_744"
+	manpower = 2500
+	
+	state_category = town
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+
+
+		}
+		add_core_of = PRM
+                add_core_of = NCR
+	
+		victory_points = {
+			610 1 
+		}
+
+		
+	}
+
+		
+
+	provinces={
+		610
+	}
+}

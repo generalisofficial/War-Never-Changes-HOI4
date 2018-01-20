@@ -1,0 +1,23 @@
+state={
+	id=833
+	name="STATE_833"
+	history={
+		owner = FEG
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = FEG
+                add_core_of = RAI
+		victory_points = {
+		     13255 10 
+		}
+		
+
+	}
+	provinces={
+		13255 
+	}
+	manpower=34
+	buildings_max_level_factor=1.000
+        state_category=city
+}

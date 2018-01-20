@@ -1,0 +1,21 @@
+state={
+	id=829
+	name="STATE_829"
+	history={
+		owner = RAI
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = RAI
+                add_core_of = MNM
+		victory_points = {
+		     13251 5 
+		}
+	}
+	provinces={
+		13251 
+	}
+	manpower=23
+	buildings_max_level_factor=1.000
+        state_category=town
+}

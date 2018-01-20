@@ -1,0 +1,39 @@
+
+state={
+	id=766
+	name="STATE_766"
+	manpower = 4500
+	
+	state_category = metropolis
+	
+	resources={
+		steel=400
+		aluminum=10
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+
+		}
+		add_core_of = NCR
+		add_core_of = BON
+		
+			victory_points = {
+			9855 20 
+		}
+		
+		
+
+	}
+	
+
+
+	provinces={
+	  9855
+	}
+}

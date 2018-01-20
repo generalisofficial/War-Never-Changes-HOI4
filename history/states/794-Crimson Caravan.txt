@@ -1,0 +1,41 @@
+state={
+	id=794
+	name="STATE_794"
+	
+	manpower = 1000
+	
+	state_category = town
+	
+	resources={
+		steel=150
+		oil=100
+		rubber=150
+	}
+
+	history={
+		owner = CCA
+		buildings = {
+			infrastructure = 4
+
+			industrial_complex = 2
+
+
+		}
+	
+		add_core_of = CCA
+		
+			victory_points = {
+			13222 10 
+		}
+
+		
+
+	}
+		
+	
+	
+	provinces={
+		13222 
+	}
+
+}

@@ -1,0 +1,23 @@
+state={
+	id=888
+	name="STATE_888"
+	history={
+		owner = BTR
+		buildings = {
+			infrastructure = 5
+                                                industrial_complex = 1
+                                                arms_factory = 1
+		}
+		add_core_of = BTR
+                                add_core_of = ROY
+                                victory_points = {
+		1453 20 
+		}
+	}
+	provinces={
+		1453 
+	}
+	manpower=2800
+	buildings_max_level_factor=1.000
+                state_category=city
+}

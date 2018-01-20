@@ -1,0 +1,16 @@
+
+state={
+	id=379
+	name="STATE_379"
+	manpower = 0
+	
+	state_category = rural
+	
+	resources={
+	
+	}
+
+	provinces={
+		
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=839
+	name="STATE_839"
+	history={
+		owner = ABN
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ABN
+		victory_points = {
+		     13261 1 
+		}
+	}
+	provinces={
+		13261 
+	}
+	manpower=3
+	buildings_max_level_factor=1.000
+        state_category=pastoral
+}

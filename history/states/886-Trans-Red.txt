@@ -1,0 +1,18 @@
+state={
+	id=886
+	name="STATE_886"
+	history={
+		owner = KKK
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = KKK
+                                add_core_of = ROY
+	}
+	provinces={
+		1559 4522 7555 7599 
+	}
+	manpower=1378
+	buildings_max_level_factor=1.000
+                state_category=rural
+}

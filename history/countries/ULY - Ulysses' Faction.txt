@@ -1,0 +1,47 @@
+﻿capital = 815
+
+oob = "ULY_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 0
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 100
+			#banned = no #default is no
+		}
+		
+		neutrality = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Ulysses"
+	desc = "POLITICS_ULYSSES_DESC"
+	picture = "Ulysses.dds"
+	expire = "2300.1.1"
+	ideology = anarchist_communism
+	traits = {
+		#
+	}
+}

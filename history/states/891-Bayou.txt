@@ -1,0 +1,23 @@
+state={
+	id=891
+	name="STATE_891"
+	history={
+		owner = CBA
+		buildings = {
+			infrastructure = 2
+                                                industrial_complex = 1
+                                                arms_factory = 2
+		}
+		add_core_of = CBA
+                                add_core_of = ROY
+                          victory_points = {
+		12313 5 
+		}
+	}
+	provinces={
+		4507 12313 
+	}
+	manpower=1729
+	buildings_max_level_factor=1.000
+                state_category=town
+}

@@ -1,0 +1,22 @@
+state={
+	id=817
+	name="STATE_817"
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 5		
+		}
+                add_core_of = NCR	
+                add_core_of = BOM	
+		victory_points = {
+			13241 10
+		}
+	
+	}
+	provinces={
+		13241 
+	}
+	manpower=34
+	buildings_max_level_factor=1.000
+        state_category=town
+}

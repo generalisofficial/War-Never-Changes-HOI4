@@ -1,0 +1,40 @@
+
+state={
+	id=770
+	name="STATE_770"
+	manpower = 4500
+	
+	state_category = metropolis
+	
+	resources={
+		tungsten=300
+		steel=200
+		oil=85
+	}
+
+	history={
+		owner = BOS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+
+
+		}
+                add_claim_by = NCR
+		add_core_of = BOS
+		
+		
+			victory_points = {
+			4518 30 
+		}
+		
+
+	}
+	
+
+
+	provinces={
+	  4518
+	}
+}

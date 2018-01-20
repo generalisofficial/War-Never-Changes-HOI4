@@ -1,0 +1,22 @@
+state={
+	id=884
+	name="STATE_884"
+	history={
+		owner = KKK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+                                                arms_factory=3
+		}
+		add_core_of = KKK
+		victory_points = {
+			10410 10 
+		}
+	}
+	provinces={
+		4510 4565 4650 7464 10410 10449 12328 
+	}
+	manpower=6897
+	buildings_max_level_factor=1.000
+                state_category=town
+}

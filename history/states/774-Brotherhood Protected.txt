@@ -1,0 +1,27 @@
+state={
+	id=774
+	name="STATE_774"
+	
+			manpower=250
+
+	state_category=rural			
+		history={
+		owner = NCR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+
+		}
+                add_core_of = NCR
+		add_core_of = BOS
+
+
+	}
+	
+	
+	provinces={
+		986 3784 6881 
+	}
+	
+}

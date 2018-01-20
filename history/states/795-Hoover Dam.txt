@@ -1,0 +1,22 @@
+state={
+	id=795
+	name="STATE_795"
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 7		
+		}
+                add_claim_by = CEL
+		add_core_of = NCR		
+		victory_points = {
+			13224 25 
+		}
+	
+	}
+	provinces={
+		13224 
+	}
+	manpower=68
+	buildings_max_level_factor=1.000
+        state_category=enclave
+}

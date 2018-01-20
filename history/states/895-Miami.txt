@@ -1,0 +1,21 @@
+state={
+	id=895
+	name="STATE_895"
+	history={
+		owner = ALS
+		buildings = {
+			infrastructure = 7
+                                                industrial_complex = 2
+		}
+                                 victory_points = {
+			1843 20 
+		}
+		add_core_of = ALS
+	}
+	provinces={
+		1843 
+	}
+	manpower=8739
+	buildings_max_level_factor=1.000
+                state_category=city
+}

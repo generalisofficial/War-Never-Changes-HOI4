@@ -1,0 +1,20 @@
+state={
+	id=857
+	name="STATE_857"
+	history={
+		owner = FEG
+		buildings = {
+			infrastructure = 4
+		}
+                add_core_of = FEG
+		victory_points = {
+		     13276 5 
+		}
+	}
+	provinces={
+		13276 
+	}
+	manpower=76
+	buildings_max_level_factor=1.000
+        state_category=town
+}

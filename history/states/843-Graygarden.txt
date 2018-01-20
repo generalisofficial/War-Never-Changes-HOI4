@@ -1,0 +1,21 @@
+state={
+	id=843
+	name="STATE_843"
+	history={
+		owner = GRG
+		buildings = {
+			infrastructure = 5
+                        industrial_complex = 2
+		}
+		add_core_of = GRG
+		victory_points = {
+		     13262 1 
+		}
+	}
+	provinces={
+		13262 
+	}
+	manpower=12
+	buildings_max_level_factor=1.000
+        state_category=pastoral
+}

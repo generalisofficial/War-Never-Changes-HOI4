@@ -1,0 +1,40 @@
+
+state={
+	id=756
+	name="STATE_756"
+	manpower = 4250
+	
+	state_category = city
+	
+	resources={
+		rubber=100
+		aluminium=10
+	}
+
+	history={
+		owner = TDE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+
+		}
+		
+		add_core_of = TDE
+		
+		
+				victory_points = {
+			781 10 
+		}
+		
+		
+
+	}
+	
+
+
+	provinces={
+	  781
+	}
+}

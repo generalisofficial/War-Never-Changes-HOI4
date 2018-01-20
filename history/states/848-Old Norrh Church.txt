@@ -1,0 +1,22 @@
+state={
+	id=848
+	name="STATE_848"
+	history={
+		owner = RLR
+		buildings = {
+			infrastructure = 6
+		}
+                add_core_of = RLR
+		victory_points = {
+		     13268 10 
+		}
+		
+
+	}
+	provinces={
+		13268 
+	}
+	manpower=200
+	buildings_max_level_factor=1.000
+        state_category=city
+}
