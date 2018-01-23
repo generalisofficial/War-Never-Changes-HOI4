@@ -1,0 +1,223 @@
+﻿division_template = {
+	name = "Legionaries"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		
+	}
+}
+division_template = {
+	name = "Cavalry"		# Cavalry Division
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		
+	}
+}
+division_template = {
+	name = "Legionary Scouts"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }   
+		}
+}
+division_template = {
+	name = "Praetorian"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }   
+		recon = { x = 0 y = 1 }
+	}
+}
+
+
+###### OOB ######
+units = {
+
+	division= {			
+		name = "1st Legion"		
+		location = 13225
+		division_template = "Legionaries"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Legion"		
+		location = 13208
+		division_template = "Legionaries"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "3rd Legion"		
+		location = 13228
+		division_template = "Legionaries"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "4th Legion"		
+		location = 11814
+		division_template = "Legionaries"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "5th Legion"		
+		location = 13224
+		division_template = "Legionaries"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "6th Legion"		
+		location = 4975
+		division_template = "Legionaries"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "7th Legion"		
+		location = 13225
+		division_template = "Legionaries"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "8th Legion"		
+		location = 853
+		division_template = "Legionaries"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "1st Legionary Scouts"		
+		location = 13228
+		division_template = "Legionary Scouts"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Legionary Scouts"		
+		location = 13224
+		division_template = "Legionary Scouts"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "3rd Legionary Scouts"		
+		location = 13225
+		division_template = "Legionary Scouts"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "4th Legionary Scouts"		
+		location = 1827
+		division_template = "Legionary Scouts"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Blackfoot Tribe Legion"		
+		location = 11814
+		division_template = "Legionaries"		
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Fredonian Tribe Legion"		
+		location = 8115
+		division_template = "Legionaries"		
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Hangdogs Legion"		
+		location = 1827
+		division_template = "Legionaries"		
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Hidebarks Tribe Legion"		
+		location = 12765
+		division_template = "Legionaries"		
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Kaibabs Tribe Legion"		
+		location = 7821
+		division_template = "Legionaries"		
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Sun Dogs Tribe Legion"		
+		location = 10783
+		division_template = "Legionaries"		
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Twisted Hairs Tribe Legion"		
+		location = 11814
+		division_template = "Legionaries"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Painted Rock Tribe Legion"		
+		location = 10645
+		division_template = "Praetorian"		
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "1st Praetorian Guards"		
+		location = 13225
+		division_template = "Praetorian"		
+		start_experience_factor = 0.8
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Praetorian Guards"		
+		location = 13213
+		division_template = "Praetorian"		
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "3rd Praetorian Guards"		
+		location = 1793
+		division_template = "Praetorian"		
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Caesar's Guards"		
+		location = 13213
+		division_template = "Praetorian"		
+		start_experience_factor = 0.9
+		start_equipment_factor = 0.7
+	
+	}

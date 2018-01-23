@@ -436,6 +436,12 @@ EIG = {
 }
 
 
+BRW = {
+	color = rgb { 205 133 63 }
+	color_ui = rgb { 205 133 63 }
+}
+
+
 
 
 

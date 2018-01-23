@@ -2,7 +2,7 @@ state={
 	id=775
 	name="STATE_775"
 	
-	manpower=4500
+	manpower=674
 
 	state_category=city
 	
@@ -16,7 +16,6 @@ state={
 
 		}
                 add_core_of = NCR
-		add_core_of = RAI
 
 			victory_points = {
 			3840 5 

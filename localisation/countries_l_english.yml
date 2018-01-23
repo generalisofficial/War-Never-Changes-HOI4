@@ -1196,6 +1196,19 @@
  EIG_neutrality_ADJ:0 "Eighty"
  EIG_communism_ADJ:0 "Eighty"
  
+ BRW_fascism:0 "Brahmin Wood"
+ BRW_fascism_DEF:0 "Brahmin Wood"
+ BRW_democratic:0 "Brahmin Wood"
+ BRW_democratic_DEF:0 "Brahmin Wood"
+ BRW_neutrality:0 "Brahmin Wood"
+ BRW_neutrality_DEF:0 "Brahmin Wood"
+ BRW_communism:1 "Brahmin Wood"
+ BRW_communism_DEF:0 "Brahmin Wood"
+ BRW_fascism_ADJ:0 "Brahmin Wood"
+ BRW_democratic_ADJ:0 "Brahmin Wood"
+ BRW_neutrality_ADJ:0 "Brahmin Wood"
+ BRW_communism_ADJ:0 "Brahmin Wood"
+ 
  
  
  

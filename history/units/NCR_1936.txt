@@ -1,0 +1,217 @@
+﻿division_template = {
+	name = "Troopers"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+	}
+}
+division_template = {
+	name = "Recon Troopers"		# Recon Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Cavalry"		# Cavalry Division
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		
+	}
+}
+division_template = {
+	name = "Rangers"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }   
+	}
+
+}
+division_template = {
+	name = "Veteran Rangers"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }   
+		recon = { x = 0 y = 1 }   
+	}
+}		
+
+###### OOB ######
+units = {
+	
+	division= {			
+		name = "1st Infantry"		
+		location = 13306
+		division_template = "Troopers"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Infantry"		
+		location = 13231
+		division_template = "Troopers"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "3rd Infantry"		
+		location = 13229
+		division_template = "Troopers"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "4th Infantry"		
+		location = 13241
+		division_template = "Troopers"		
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "5th Infantry"		
+		location = 4657
+		division_template = "Troopers"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "6th Infantry"		
+		location = 13224
+		division_template = "Troopers"		
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "7th Infantry"		
+		location = 1432
+		division_template = "Troopers"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "8th Infantry"		
+		location = 11698
+		division_template = "Troopers"		
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Vault City Guards"		
+		location = 766
+		division_template = "Troopers"		
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "1st Recon"		
+		location = 13233
+		division_template = "Recon Troopers"	
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Recon"		
+		location = 13229
+		division_template = "Recon Troopers"	
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "1st Rangers"		
+		location = 13231
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Alpha Rangers"		
+		location = 13224
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Bravo Rangers"		
+		location = 13221
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Charlie Rangers"		
+		location = 13229
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Delta Rangers"		
+		location = 13305
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Echo Rangers"		
+		location = 13208
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Foxtrot Rangers"		
+		location = 13303
+		division_template = "Rangers"	
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "Desert Rangers"		
+		location = 4657
+		division_template = "Veteran Rangers"	
+		start_experience_factor = 0.9
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "1st Veteran Rangers"		
+		location = 13302
+		division_template = "Veteran Rangers"	
+		start_experience_factor = 0.9
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "2nd Veteran Rangers"		
+		location = 13233
+		division_template = "Veteran Rangers"	
+		start_experience_factor = 0.9
+		start_equipment_factor = 0.7
+	}
+	division= {			
+		name = "3rd Veteran Rangers"		
+		location = 12461
+		division_template = "Veteran Rangers"	
+		start_experience_factor = 0.9
+		start_equipment_factor = 0.7
+
+	}

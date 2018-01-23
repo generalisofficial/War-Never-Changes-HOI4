@@ -1,0 +1,21 @@
+state={
+	id=951
+	name="STATE_951"
+	history={
+		owner = BRW
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1	
+		}
+		add_core_of = BRW
+		victory_points = {
+			9682 1 
+		}
+	}
+	provinces={
+		9682 
+	}
+	manpower=98
+	buildings_max_level_factor=1.000
+                state_category=town
+}
