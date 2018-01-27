@@ -441,6 +441,16 @@ BRW = {
 	color_ui = rgb { 205 133 63 }
 }
 
+BMW = {
+	color = rgb { 15 98 212 }
+	color_ui = rgb { 15 98 212 }
+}
+
+SNL = {
+	color = rgb { 178 34 34 }
+	color_ui = rgb { 178 34 34 }
+}
+
 
 
 

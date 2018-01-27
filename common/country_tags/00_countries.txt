@@ -86,6 +86,8 @@ SOR = "countries/SOR.txt"
 DED = "countries/DED.txt"
 EIG = "countries/EIG.txt"
 BRW = "countries/BRW.txt"
+BMW = "countries/BMW.txt"
+SNL = "countries/SNL.txt"
 
 
 

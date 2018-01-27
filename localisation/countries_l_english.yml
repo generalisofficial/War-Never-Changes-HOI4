@@ -201,10 +201,10 @@
  TDE_neutrality_DEF:0 "The Den"
  TDE_communism:1 "The Den"
  TDE_communism_DEF:0 "The Den"
- TDE_fascism_ADJ:0 "The Den"
- TDE_democratic_ADJ:0 "The Den"
- TDE_neutrality_ADJ:0 "The Den"
- TDE_communism_ADJ:0 "The Den"
+ TDE_fascism_ADJ:0 "Den"
+ TDE_democratic_ADJ:0 "Den"
+ TDE_neutrality_ADJ:0 "Den"
+ TDE_communism_ADJ:0 "Den"
  
  
  BOS_fascism:0 "Brotherhood West Coast Chapter"
@@ -1208,6 +1208,32 @@
  BRW_democratic_ADJ:0 "Brahmin Wood"
  BRW_neutrality_ADJ:0 "Brahmin Wood"
  BRW_communism_ADJ:0 "Brahmin Wood"
+ 
+ BMW_fascism:0 "Brotherhood Midwest Chapter"
+ BMW_fascism_DEF:0 "Brotherhood Midwest Chapter"
+ BMW_democratic:0 "Brotherhood Midwest Chapter"
+ BMW_democratic_DEF:0 "Brotherhood Midwest Chapter"
+ BMW_neutrality:0 "Brotherhood Midwest Chapter"
+ BMW_neutrality_DEF:0 "Brotherhood Midwest Chapter"
+ BMW_communism:1 "Brotherhood Midwest Chapter"
+ BMW_communism_DEF:0 "Brotherhood Midwest Chapter"
+ BMW_fascism_ADJ:0 "Brotherhood Midwest Chapter"
+ BMW_democratic_ADJ:0 "Brotherhood Midwest Chapter"
+ BMW_neutrality_ADJ:0 "Brotherhood Midwest Chapter"
+ BMW_communism_ADJ:0 "Brotherhood Midwest Chapter"
+ 
+ SNL_fascism:0 "Sinaloa Cartel"
+ SNL_fascism_DEF:0 "The Sinaloa Cartel"
+ SNL_democratic:0 "Sinaloa Federation"
+ SNL_democratic_DEF:0 "The Sinaloa Federation"
+ SNL_neutrality:0 "Sinaloa"
+ SNL_neutrality_DEF:0 "Sinaloa"
+ SNL_communism:1 "Chem State of Sinaloa"
+ SNL_communism_DEF:0 "The Chem State of Sinaloa"
+ SNL_fascism_ADJ:0 "Sinaloa"
+ SNL_democratic_ADJ:0 "Sinaloa"
+ SNL_neutrality_ADJ:0 "Sinaloa"
+ SNL_communism_ADJ:0 "Sinaloa"
  
  
  

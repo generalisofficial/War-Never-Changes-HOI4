@@ -1,0 +1,22 @@
+state={
+	id=952
+	name="STATE_952"
+               history={
+		owner = BMW
+		buildings = {
+			infrastructure = 7
+                                                industrial_complex = 2
+                                                arms_factory = 2
+		}
+                               victory_points = {
+		     13342 10 
+		}
+                     add_core_of = BMW
+	}  
+	provinces={
+		13342 
+	}
+	manpower=139
+	buildings_max_level_factor=1.000
+                state_category=city
+}
