@@ -1248,6 +1248,19 @@
  FRP_neutrality_ADJ:0 "Freeport"
  FRP_communism_ADJ:0 "Freeport"
  
+ RNT_fascism:0 "Ronto"
+ RNT_fascism_DEF:0 "Ronto"
+ RNT_democratic:0 "Ronto"
+ RNT_democratic_DEF:0 "Ronto"
+ RNT_neutrality:0 "Ronto"
+ RNT_neutrality_DEF:0 "Ronto"
+ RNT_communism:1 "Ronto"
+ RNT_communism_DEF:0 "Ronto"
+ RNT_fascism_ADJ:0 "Ronto"
+ RNT_democratic_ADJ:0 "Ronto"
+ RNT_neutrality_ADJ:0 "Ronto"
+ RNT_communism_ADJ:0 "Ronto"
+ 
  
  
  

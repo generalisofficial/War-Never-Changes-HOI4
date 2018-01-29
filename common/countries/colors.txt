@@ -456,6 +456,11 @@ FRP = {
 	color_ui = rgb { 255 228 181 }
 }
 
+RNT = {
+	color = rgb { 255 69 0 }
+	color_ui = rgb { 255 69 0 }
+}
+
 
 
 
