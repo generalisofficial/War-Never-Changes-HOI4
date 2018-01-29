@@ -451,6 +451,11 @@ SNL = {
 	color_ui = rgb { 178 34 34 }
 }
 
+FRP = {
+	color = rgb { 255 228 181 }
+	color_ui = rgb { 255 228 181 }
+}
+
 
 
 

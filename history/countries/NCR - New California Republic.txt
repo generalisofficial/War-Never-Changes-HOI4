@@ -3,7 +3,7 @@
 oob = "NCR_1936"
 
 # Starting tech
-set_technology = {
+set_technology = {olkijuhui 
 	infantry_weapons = 1
 }
 set_convoys = 5

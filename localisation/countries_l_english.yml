@@ -1235,6 +1235,19 @@
  SNL_neutrality_ADJ:0 "Sinaloa"
  SNL_communism_ADJ:0 "Sinaloa"
  
+ FRP_fascism:0 "Freeport"
+ FRP_fascism_DEF:0 "Freeport"
+ FRP_democratic:0 "Freeport"
+ FRP_democratic_DEF:0 "Freeport"
+ FRP_neutrality:0 "Freeport"
+ FRP_neutrality_DEF:0 "Freeport"
+ FRP_communism:1 "Freeport"
+ FRP_communism_DEF:0 "Freeport"
+ FRP_fascism_ADJ:0 "Freeport"
+ FRP_democratic_ADJ:0 "Freeport"
+ FRP_neutrality_ADJ:0 "Freeport"
+ FRP_communism_ADJ:0 "Freeport"
+ 
  
  
  

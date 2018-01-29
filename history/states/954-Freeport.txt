@@ -1,0 +1,19 @@
+state={
+	id=954
+	name="STATE_954"
+	history={
+		owner = FRP
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = FRP
+                                victory_points = { 8057 5 }
+	}
+	provinces={
+		12312 
+	}
+	manpower=116
+	buildings_max_level_factor=1.000
+                state_category=town
+}
