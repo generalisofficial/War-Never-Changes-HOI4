@@ -772,7 +772,7 @@
  STATE_771:0 "Dayglow"
  STATE_772:0 "The South"
  STATE_773:0 "Northern Raider Territory"
- STATE_774:0 "Lost Hills Outskirts"
+ STATE_774:0 "Maxson"
  STATE_775:1 "San Francisco Outskirts"
  STATE_776:0 "Mutant Territory"
  STATE_777:0 "Goodsprings"
@@ -953,3 +953,4 @@
  STATE_952:0 "Bunker Alpha"
  STATE_953:0 "Sinaloa"
  STATE_954:0 "Freeport"
+ STATE_955:0 "Chicago Outskirts"
