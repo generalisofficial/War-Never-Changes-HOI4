@@ -1,22 +1,27 @@
+
 state={
 	id=946
 	name="STATE_946"
+
 	history={
 		owner = EIG
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-                                                arms_factory = 1
+			arms_factory = 1
+
 		}
 		add_core_of = EIG
-                                victory_points = {
+		victory_points = {
 			1663 1 
 		}
+
 	}
+
 	provinces={
-		1663 10582 10651 13153 
+		1663 10582 10651 
 	}
 	manpower=1423
 	buildings_max_level_factor=1.000
-                state_category=town
+	state_category=town
 }

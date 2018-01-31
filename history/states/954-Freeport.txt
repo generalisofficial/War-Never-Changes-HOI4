@@ -8,7 +8,7 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = FRP
-                                victory_points = { 8057 5 }
+                                victory_points = { 12312 1 }
 	}
 	provinces={
 		12312 

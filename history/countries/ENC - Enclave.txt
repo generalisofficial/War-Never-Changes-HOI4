@@ -1,4 +1,4 @@
-﻿capital = 745
+﻿capital = 950
 
 oob = "ENC_1936"
 
@@ -36,41 +36,12 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Dick Richardson"
-	desc = "POLITICS_IMAM_YAHYA_DESC"
-	picture = "gfx/leaders/ENC/Portrait_Enclave_Dick_Richardson.dds"
+	name = "John Henry Eden"
+	desc = "POLITICS_EDEN_DESC"
+	picture = "Eden.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
 		#
-	}
-}
-
-1939.1.1 = {
-	set_politics = {
-
-		parties = {
-		democratic = { 
-			popularity = 100
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
-		
-		neutrality = { 
-			popularity = 0
-		}
-	}
-	
-		ruling_party = democratic
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
 	}
 }
