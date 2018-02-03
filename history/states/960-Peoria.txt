@@ -1,0 +1,19 @@
+state={
+	id=960
+	name="STATE_960"
+	history={
+		owner = PEO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = PEO
+                                victory_points = { 12497 1 }
+	}
+	provinces={
+		12497 
+	}
+	manpower=98
+	buildings_max_level_factor=1.000
+                state_category=town
+}

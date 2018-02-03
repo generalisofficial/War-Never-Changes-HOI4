@@ -461,6 +461,11 @@ RNT = {
 	color_ui = rgb { 255 69 0 }
 }
 
+PEO = {
+	color = rgb { 188 143 143 }
+	color_ui = rgb { 188 143 143 }
+}
+
 
 
 
