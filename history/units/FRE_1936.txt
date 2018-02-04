@@ -8,40 +8,19 @@ division_template = {
 		infantry = { x = 1 y = 0 }
 	}
 }
-<<<<<<< HEAD
-division_template = {
-	name = "Troopers"		# Infantry Division
-
-	regiments = {
-		infantry = { x = 0 y = 0 }
-		infantry = { x = 0 y = 1 }
-		infantry = { x = 0 y = 2 }
-		infantry = { x = 1 y = 0 }
-
-=======
->>>>>>> b984ac6337d793cdce0b649fc1dcbc62c764fc70
 ###### OOB ######
 units = {
 
 		division= {			
-<<<<<<< HEAD
-		name = "1st Freeside City Guards"		
-		location = 781
-=======
 		name = "North Vegas City Guard"		
 		location = 13232
->>>>>>> b984ac6337d793cdce0b649fc1dcbc62c764fc70
 		division_template = "City Guards"		
 		start_experience_factor = 0.4
 		start_equipment_factor = 0.7
 		
 		}
 		division= {			
-<<<<<<< HEAD
-		name = "2nd Freeside City Guards"		
-=======
 		name = "Westside City Guard"		
->>>>>>> b984ac6337d793cdce0b649fc1dcbc62c764fc70
 		location = 13265
 		division_template = "City Guards"		
 		start_experience_factor = 0.4
@@ -50,11 +29,7 @@ units = {
 		}
 		division= {			
 		name = "The Kings"		
-<<<<<<< HEAD
-		location = 750 
-=======
 		location = 13220 
->>>>>>> b984ac6337d793cdce0b649fc1dcbc62c764fc70
 		division_template = "City Guards"		
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7
