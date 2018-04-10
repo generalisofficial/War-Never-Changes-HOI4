@@ -2,14 +2,10 @@
 state={
 	id=759
 	name="STATE_759"
-	manpower = 7000
-	
-	state_category = large_city
-	
 	resources={
-		oil=350
-		steel=200
-		rubber=250
+		oil=350.000
+		steel=200.000
+		rubber=250.000
 	}
 
 	history={
@@ -19,23 +15,19 @@ state={
 			arms_factory = 2
 			industrial_complex = 6
 
-
 		}
-                add_core_of = NCR
+		add_core_of = NCR
 		add_core_of = VTC
-		
-	
-					victory_points = {
+		victory_points = {
 			766 10 
 		}
-		
-		
-		
-	}
-	
 
+	}
 
 	provinces={
-	  766
+		766 
 	}
+	manpower=7000
+	buildings_max_level_factor=1.000
+	state_category=large_city
 }

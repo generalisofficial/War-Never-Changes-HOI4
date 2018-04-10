@@ -2,36 +2,31 @@
 state={
 	id=757
 	name="STATE_757"
-	manpower = 1500
-	
-	state_category = large_city
+
 	history={
 		owner = NCR
 		buildings = {
 			infrastructure = 4
 			arms_factory = 3
 			industrial_complex = 2
-
-			
-				10159 = {
+			10159 = {
 				bunker = 3
 
 			}
 
 		}
-                add_core_of = NCR
+		add_core_of = NCR
 		add_core_of = GEC
-		
-				victory_points = {
+		victory_points = {
 			10159 15 
 		}
 
 	}
-	
-
-		
 
 	provinces={
-	  10159
+		10159 
 	}
+	manpower=1500
+	buildings_max_level_factor=1.000
+	state_category=large_city
 }

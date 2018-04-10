@@ -2,13 +2,9 @@
 state={
 	id=758
 	name="STATE_758"
-	manpower = 3500
-	
-	state_category = city
-	
 	resources={
-		rubber=100
-		steel=100
+		rubber=100.000
+		steel=100.000
 	}
 
 	history={
@@ -18,15 +14,15 @@ state={
 			arms_factory = 1
 			industrial_complex = 3
 
-
 		}
 		add_core_of = MOD
-		
-		
 
 	}
 
 	provinces={
-	  3588
+		3588 
 	}
+	manpower=3500
+	buildings_max_level_factor=1.000
+	state_category=city
 }

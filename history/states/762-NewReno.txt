@@ -2,14 +2,10 @@
 state={
 	id=762
 	name="STATE_762"
-	manpower = 6850
-	
-	state_category = metropolis
-	
 	resources={
-		tungsten=40
-		rubber=50
-		oil=70
+		tungsten=40.000
+		rubber=50.000
+		oil=70.000
 	}
 
 	history={
@@ -18,22 +14,18 @@ state={
 			infrastructure = 4
 			industrial_complex = 4
 
-
 		}
 		add_core_of = NWR
-		
-				victory_points = {
+		victory_points = {
 			9697 10 
 		}
-		
-		
-	
-	}
-	
 
-		
+	}
 
 	provinces={
-	  9697
+		9697 9713 11658 
 	}
+	manpower=6850
+	buildings_max_level_factor=1.000
+	state_category=metropolis
 }
