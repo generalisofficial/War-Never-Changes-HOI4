@@ -75,11 +75,6 @@ NVE = {
 	color_ui = rgb { 13 255 59 }
 }
 
-PRM = {
-	color = rgb { 155 22 22 }
-	color_ui = rgb { 155 22 22 }
-}
-
 RAI = {
 	color = rgb { 206 0 0 }
 	color_ui = rgb { 206 0 0 }

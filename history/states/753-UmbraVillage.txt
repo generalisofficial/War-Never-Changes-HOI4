@@ -2,9 +2,7 @@
 state={
 	id=753
 	name="STATE_753"
-	manpower = 2000
-	
-	state_category = town
+
 	history={
 		owner = NCR
 		buildings = {
@@ -12,22 +10,19 @@ state={
 			arms_factory = 2
 			industrial_complex = 2
 
-
 		}
-                add_core_of = NCR
+		add_core_of = NCR
 		add_core_of = UMB
-		
-			victory_points = {
+		victory_points = {
 			9730 5 
 		}
-		
 
 	}
-	
-
-		
 
 	provinces={
-	  9730
+		610 9730 
 	}
+	manpower=2000
+	buildings_max_level_factor=1.000
+	state_category=town
 }

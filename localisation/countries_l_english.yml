@@ -94,21 +94,6 @@
  VLT_neutrality_ADJ:0 "Vault 13"
  VLT_communism_ADJ:0 "Vault 13"
  
- 
- PRM_fascism:0 "Primitives"
- PRM_fascism_DEF:0 "Primitives"
- PRM_democratic:0 "Primitives"
- PRM_democratic_DEF:0 "Primitives"
- PRM_neutrality:0 "Primitives"
- PRM_neutrality_DEF:0 "Primitives"
- PRM_communism:1 "Primitives"
- PRM_communism_DEF:0 "Primitives"
- PRM_fascism_ADJ:0 "Primitives"
- PRM_democratic_ADJ:0 "Primitives"
- PRM_neutrality_ADJ:0 "Primitives"
- PRM_communism_ADJ:0 "Primitives"
- 
- 
  VTC_fascism:0 "Vault City"
  VTC_fascism_DEF:0 "Vault City"
  VTC_democratic:0 "Vault City"
@@ -121,7 +106,6 @@
  VTC_democratic_ADJ:0 "Vault City"
  VTC_neutrality_ADJ:0 "Vault City"
  VTC_communism_ADJ:0 "Vault City"
- 
  
  UMB_fascism:0 "Umbra Villagers"
  UMB_fascism_DEF:0 "Umbra Villagers"

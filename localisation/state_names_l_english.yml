@@ -751,7 +751,7 @@
  STATE_750:0 "The Strip"
  STATE_751:0 "Vault 15"
  STATE_752:0 "Navarro"
- STATE_753:0 "Umbra Village"
+ STATE_753:1 "Tribal Territory"
  STATE_754:0 "Arroyo"
  STATE_755:0 "Klamath"
  STATE_756:0 "The Den"
