@@ -7,11 +7,12 @@ state={
 		owner = NCR
 		buildings = {
 			infrastructure = 3
-
+		}
+		victory_points = {
+			1892 1 
 		}
 		add_core_of = NCR
-                                add_core_of = SNL
-
+        add_core_of = SNL
 	}
 
 	provinces={
