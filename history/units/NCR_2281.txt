@@ -118,7 +118,7 @@ units = {
 	}
 	division= {			
 		name = "Vault City Guards"		
-		location = 766
+		location = 13362
 		division_template = "Troopers"		
 		start_experience_factor = 0.3
 		start_equipment_factor = 0.7

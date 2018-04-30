@@ -1,6 +1,6 @@
 ﻿capital = 762
 
-oob = "NWR_1936"
+oob = "NWR_2281"
 
 # Starting tech
 set_technology = {
@@ -12,7 +12,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 24
 		}
 
 		fascism = {
@@ -21,27 +21,33 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
-			popularity = 100
+			popularity = 76
 		}
 	}
 	
 	ruling_party = neutrality
-	last_election = "1936.1.1"
+	last_election = "2281.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
 	name = "Tiaret Van Graff"
-	desc = "POLITICS_TIARET_VAN_GRAFF_DESC"
-	picture = "TiaretVanGraff.dds"
-	expire = "2300.1.1"
+	picture = "Van_Graff.dds"
 	ideology = oligarchism
-	traits = {
-		#
-	}
+}
+
+create_country_leader = {
+	name = "Lil' Jesus Mordino"
+	picture = "Mordino.dds"
+	ideology = fascism_ideology
+}
+
+create_country_leader = {
+	name = "Keith Wright"
+	picture = "Wright.dds"
+	ideology = conservatism
 }
