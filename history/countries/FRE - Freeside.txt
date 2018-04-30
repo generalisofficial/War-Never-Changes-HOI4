@@ -2,7 +2,6 @@
 
 oob = "FRE_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -12,7 +11,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 7
 		}
 
 		fascism = {
@@ -21,11 +20,10 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
-			popularity = 100
+			popularity = 93
 		}
 	}
 	
@@ -37,11 +35,24 @@ set_politics = {
 
 create_country_leader = {
 	name = "The King"
-	desc = "POLITICS_THE_KING_DESC"
 	picture = "King.dds"
-	expire = "2300.1.1"
 	ideology = oligarchism
-	traits = {
-		#
-	}
+}
+
+create_country_leader = {
+	name = "Julie Farkas"
+	picture = "Farkas.dds"
+	ideology = socialism
+}
+
+create_country_leader = {
+	name = "Clayton Ettienne"
+	picture = "Ettienne.dds"
+	ideology = anarchist_communism
+}
+
+create_country_leader = {
+	name = "Yvette"
+	picture = "Yvette.dds"
+	ideology = fascism_ideology
 }
