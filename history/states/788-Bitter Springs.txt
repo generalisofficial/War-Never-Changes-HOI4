@@ -19,7 +19,6 @@ state={
 
 		}
                 add_core_of = NCR
-		add_core_of = BIS
                 add_core_of = MKA
 		
 			victory_points = {

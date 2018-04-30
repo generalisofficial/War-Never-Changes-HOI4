@@ -120,11 +120,6 @@ VUT = {
 	color_ui = rgb { 142 190 195 }
 }
 
-BIS = {
-	color = rgb { 33 71 109 }
-	color_ui = rgb { 33 71 109 }
-}
-
 BOM = {
 	color = rgb { 120 30 50 }
 	color_ui = rgb { 120 30 50 }
@@ -251,11 +246,6 @@ IST = {
 }
 
 MLR = {
-	color = rgb { 139 69 19 }
-	color_ui = rgb { 139 69 19 }
-}
-
-RDR = {
 	color = rgb { 139 69 19 }
 	color_ui = rgb { 139 69 19 }
 }
