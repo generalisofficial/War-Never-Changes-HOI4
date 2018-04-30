@@ -2,9 +2,6 @@
 state={
 	id=760
 	name="STATE_760"
-	manpower = 1500
-	
-	state_category = rural
 
 	history={
 		owner = NCR
@@ -13,22 +10,19 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 
-
 		}
 		add_core_of = ABB
-                add_core_of = NCR
-		
-				victory_points = {
+		add_core_of = NCR
+		victory_points = {
 			4331 5 
 		}
-		
-		
-	}
-	
 
-		
+	}
 
 	provinces={
-	  4331
+		4331 10159 
 	}
+	manpower=1500
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

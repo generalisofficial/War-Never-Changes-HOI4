@@ -1,0 +1,23 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	male = {
+		"gfx/leaders/generic/male/male_1.dds"
+	}
+	female = {
+		"gfx/leaders/generic/female/female_1.dds"
+	}
+}
+

@@ -19,13 +19,13 @@ state={
 		add_core_of = NCR
 		add_core_of = VTC
 		victory_points = {
-			766 10 
+			13362 10 
 		}
 
 	}
 
 	provinces={
-		766 
+		13357 13358 13359 13360 13361 13362 13363 
 	}
 	manpower=7000
 	buildings_max_level_factor=1.000

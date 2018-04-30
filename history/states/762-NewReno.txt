@@ -17,13 +17,13 @@ state={
 		}
 		add_core_of = NWR
 		victory_points = {
-			9697 10 
+			13354 10 
 		}
 
 	}
 
 	provinces={
-		9697 9713 11658 
+		13351 13352 13353 13354 13355 13356 
 	}
 	manpower=6850
 	buildings_max_level_factor=1.000

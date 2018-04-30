@@ -18,13 +18,13 @@ state={
 		add_core_of = NCR
 		add_core_of = GEC
 		victory_points = {
-			10159 15 
+			13370 5 
 		}
 
 	}
 
 	provinces={
-		10159 
+		13364 13365 13366 13367 13368 13369 13370 
 	}
 	manpower=1500
 	buildings_max_level_factor=1.000
