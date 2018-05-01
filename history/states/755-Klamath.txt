@@ -15,10 +15,13 @@ state={
 
 		}
 		add_core_of = KLA
-                add_core_of = NCR
+        add_core_of = NCR
 		
-				victory_points = {
+		victory_points = {
 			6482 10 
+		}
+		victory_points = {
+		     11733 1 
 		}
 		
 		
@@ -26,6 +29,6 @@ state={
 
 
 	provinces={
-	  6482 6665
+	  6482 6665 11733
 	}
 }

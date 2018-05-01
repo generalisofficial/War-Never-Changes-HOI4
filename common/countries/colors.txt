@@ -451,6 +451,11 @@ PEO = {
 	color_ui = rgb { 188 143 143 }
 }
 
+WST = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
+
 
 
 

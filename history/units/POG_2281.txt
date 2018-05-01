@@ -4,8 +4,6 @@ division_template = {
 	regiments = {
 		infantry = { x = 0 y = 0 }
 		infantry = { x = 0 y = 1 }
-		infantry = { x = 0 y = 2 }
-		infantry = { x = 1 y = 0 }
 	}
 }
 ###### OOB ######
@@ -15,6 +13,5 @@ units = {
 		name = "Powder Gangers Raider Group"		
 		location = 13209
 		division_template = "Raider Militia"		
-		start_experience_factor = 0.4
-		start_equipment_factor = 0.7
+		start_experience_factor = 0.2
 }

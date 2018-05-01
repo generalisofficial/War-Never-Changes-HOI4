@@ -3,13 +3,11 @@ state={
 	name="STATE_803"
 	history={
 		owner = USA
-		add_core_of = USA
-
 	}
 	provinces={
 		850 
 	}
 	manpower=160
 	buildings_max_level_factor=1.000
-        state_category=rural
+    state_category=rural
 }
