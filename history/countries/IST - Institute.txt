@@ -37,11 +37,30 @@ set_politics = {
 
 create_country_leader = {
 	name = "Father"
-	desc = "POLITICS_FATHER_DESC"
 	picture = "Father.dds"
-	expire = "2300.1.1"
 	ideology = oligarchism
-	traits = {
-		#
-	}
+}
+
+create_country_leader = {
+	name = "Madison Li"
+	picture = "Li.dds"
+	ideology = socialism
+}
+
+create_country_leader = {
+	name = "Justin Ayo"
+	picture = "Ayo.dds"
+	ideology = fascism_ideology
+}
+
+create_country_leader = {
+	name = "Clayton Holdren"
+	picture = "Holdren.dds"
+	ideology = anarchist_communism
+}
+
+create_field_marshal = {
+	name = "Conrad Kellogg"
+	picture = "Kellogg.dds"
+	skill = 3
 }
