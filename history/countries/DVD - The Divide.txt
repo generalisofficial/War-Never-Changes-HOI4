@@ -50,3 +50,33 @@ create_country_leader = {
 	picture = "Ulysses.dds"
 	ideology = anarchist_communism
 }
+
+create_field_marshal = {
+	name = "Ulysses"
+	picture = "Ulysses.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Beast"
+	picture = "Beast.dds"
+	skill = 1
+}
+
+create_corps_commander = {
+	name = "Blister"
+	picture = "Blister.dds"
+	skill = 1
+}
+
+create_corps_commander = {
+	name = "Blade"
+	picture = "Blade.dds"
+	skill = 1
+}
+
+create_corps_commander = {
+	name = "Bonesaw"
+	picture = "Bonesaw.dds"
+	skill = 1
+}
