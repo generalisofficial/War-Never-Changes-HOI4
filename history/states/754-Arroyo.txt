@@ -2,9 +2,7 @@
 state={
 	id=754
 	name="STATE_754"
-	manpower = 6850
-	
-	state_category = metropolis
+
 	history={
 		owner = NCR
 		buildings = {
@@ -12,22 +10,22 @@ state={
 			arms_factory = 2
 			industrial_complex = 4
 
-
 		}
 		add_core_of = ARO
-                add_core_of = NCR
-		
-				victory_points = {
+		add_core_of = NCR
+		victory_points = {
 			3644 10 
 		}
-		
+		victory_points = {
+			505 1 
+		}
 
 	}
-	
-
-		
 
 	provinces={
-	  3644
+		505 3644 
 	}
+	manpower=182
+	buildings_max_level_factor=1.000
+	state_category=city
 }

@@ -1,0 +1,52 @@
+﻿capital = 810
+
+oob = "DVD_2281"
+
+set_technology = {
+	infantry_weapons = 1
+}
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 6
+		}
+
+		fascism = {
+			popularity = 20
+		}
+		
+		communism = {
+			popularity = 74
+		}
+		
+		neutrality = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = communism
+	last_election = "2281.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Blister"
+	picture = "Blister.dds"
+	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Beast"
+	picture = "Beast.dds"
+	ideology = fascism_ideology
+}
+
+create_country_leader = {
+	name = "Ulysses"
+	picture = "Ulysses.dds"
+	ideology = anarchist_communism
+}

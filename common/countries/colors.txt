@@ -205,14 +205,9 @@ GEC = {
 	color_ui = rgb { 50 100 30 }
 }
 
-MKM = {
+DVD = {
 	color = rgb { 15 230 60 }
 	color_ui = rgb { 15 230 60 }
-}
-
-ULY = {
-	color = rgb { 130 5 25 }
-	color_ui = rgb { 130 5 25 }
 }
 
 TAV = {

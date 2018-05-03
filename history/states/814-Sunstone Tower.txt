@@ -2,11 +2,11 @@ state={
 	id=814
 	name="STATE_814"
 	history={
-		owner = MKM
+		owner = DVD
 		buildings = {
 			infrastructure = 1
 		}	
-		add_core_of = MKM	
+		add_core_of = DVD	
 		victory_points = {
 			13239 1
 		}
