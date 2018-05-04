@@ -1,0 +1,16 @@
+state={
+	id=849
+	name="STATE_849"
+	history={
+		owner = RSG
+		buildings = {
+			infrastructure = 1
+		}	
+	}
+	provinces={
+		13266 
+	}
+	manpower=4
+	buildings_max_level_factor=1.000
+    state_category=pastoral
+}

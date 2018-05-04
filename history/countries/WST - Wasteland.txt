@@ -2,6 +2,10 @@
 
 set_convoys = 5
 
+add_ideas = {
+	wasteland
+}
+
 set_politics = {
 
 	parties = {

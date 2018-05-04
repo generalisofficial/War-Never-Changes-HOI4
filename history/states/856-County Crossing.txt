@@ -1,0 +1,20 @@
+state={
+	id=856
+	name="STATE_856"
+	history={
+		owner = RAI
+		buildings = {
+			infrastructure = 2
+		}
+        add_core_of = RAI
+		victory_points = {
+		     13275 1 
+		}
+	}
+	provinces={
+		13275 
+	}
+	manpower=23
+	buildings_max_level_factor=1.000
+    state_category=rural
+}
