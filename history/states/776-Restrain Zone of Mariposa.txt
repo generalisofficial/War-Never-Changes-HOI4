@@ -1,0 +1,17 @@
+state={
+	id=776
+	name="STATE_776"
+	history={
+		owner = NCR
+		add_core_of = NCR
+        buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		6694 6876 13346 13349 13350 13376 13379 13380 13381 
+	}
+	manpower=3000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,21 @@
+state={
+	id=743
+	name="STATE_743"
+	resources={
+		steel=12.000
+		aluminium=14.000
+	}
+	history={
+		owner = NCR
+		add_core_of = NCR
+        buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		9911 13344 13345 13347 13348 13378 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
