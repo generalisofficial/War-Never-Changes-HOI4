@@ -69,6 +69,12 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
+	name = "Royez"
+	picture = "Royez.dds"
+	skill = 3
+}
+
+create_corps_commander = {
 	name = "Dhatri"
 	picture = "Dhatri.dds"
 	skill = 2

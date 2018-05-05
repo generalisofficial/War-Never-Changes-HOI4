@@ -52,15 +52,21 @@ create_field_marshal = {
 	skill = 4
 }
 
-create_field_marshal = {
+create_corps_commander = {
 	name = "Aurelius of Phoenix"
 	picture = "Aurelius.dds"
 	skill = 3
 }
 
-create_field_marshal = {
+create_corps_commander = {
 	name = "Silus"
 	picture = "Silus.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Gaius Magnus"
+	picture = "Gaius_Magnus.dds"
 	skill = 3
 }
 

@@ -8,6 +8,7 @@ state={
 	history={
 		owner = NCR
 		add_core_of = NCR
+		add_core_of = JUN
         buildings = {
 			infrastructure = 3
 		}
