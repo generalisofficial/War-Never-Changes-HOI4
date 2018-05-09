@@ -1,0 +1,24 @@
+
+state={
+	id=383
+	name="STATE_383"
+	resources={
+		oil=30.000
+	}
+
+	history={
+		owner = BMW
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = BMW
+	}
+
+	provinces={
+		1352 1753 4757 4814 4871 7834 7892 10532 12024 12513 
+	}
+	manpower=1383
+	buildings_max_level_factor=1.000
+	state_category=town
+}

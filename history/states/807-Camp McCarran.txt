@@ -7,7 +7,7 @@ state={
 			infrastructure = 6		
 		}
                 add_core_of = NCR	
-                add_claim_by = VUT	
+                add_claim_by = FIE
 		victory_points = {
 			13233 20
 		}	

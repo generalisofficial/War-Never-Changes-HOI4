@@ -415,20 +415,6 @@
  MKA_communism_ADJ:0 "Great Khans"
  
  
- MRA_fascism:0 "Mojave Raiders"
- MRA_fascism_DEF:0 "Mojave Raiders"
- MRA_democratic:0 "Mojave Raiders"
- MRA_democratic_DEF:0 "Mojave Raiders"
- MRA_neutrality:0 "Mojave Raiders"
- MRA_neutrality_DEF:0 "Mojave Raiders"
- MRA_communism:1 "Mojave Raiders"
- MRA_communism_DEF:0 "Mojave Raiders"
- MRA_fascism_ADJ:0 "Mojave Raiders"
- MRA_democratic_ADJ:0 "Mojave Raiders"
- MRA_neutrality_ADJ:0 "Mojave Raiders"
- MRA_communism_ADJ:0 "Mojave Raiders"
- 
- 
  NIP_fascism:0 "Nipton"
  NIP_fascism_DEF:0 "Nipton"
  NIP_democratic:0 "Nipton"
@@ -527,18 +513,18 @@
  VUN_communism_ADJ:0 "Vault 19"
  
  
- VUT_fascism:0 "Fiends"
- VUT_fascism_DEF:0 "Fiends"
- VUT_democratic:0 "Fiends"
- VUT_democratic_DEF:0 "Fiends"
- VUT_neutrality:0 "Fiends"
- VUT_neutrality_DEF:0 "Fiends"
- VUT_communism:1 "Fiends"
- VUT_communism_DEF:0 "Fiends"
- VUT_fascism_ADJ:0 "Fiends"
- VUT_democratic_ADJ:0 "Fiends"
- VUT_neutrality_ADJ:0 "Fiends"
- VUT_communism_ADJ:0 "Fiends"
+ FIE_fascism:0 "Fiends"
+ FIE_fascism_DEF:0 "Fiends"
+ FIE_democratic:0 "Fiends"
+ FIE_democratic_DEF:0 "Fiends"
+ FIE_neutrality:0 "Fiends"
+ FIE_neutrality_DEF:0 "Fiends"
+ FIE_communism:1 "Fiends"
+ FIE_communism_DEF:0 "Fiends"
+ FIE_fascism_ADJ:0 "Fiends"
+ FIE_democratic_ADJ:0 "Fiends"
+ FIE_neutrality_ADJ:0 "Fiends"
+ FIE_communism_ADJ:0 "Fiends"
  
  
  FRE_fascism:0 "Freeside"

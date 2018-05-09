@@ -1,0 +1,33 @@
+
+state={
+	id=759
+	name="STATE_759"
+	resources={
+		oil=350.000
+		steel=200.000
+		rubber=250.000
+	}
+
+	history={
+		owner = NCR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 6
+
+		}
+		add_core_of = NCR
+		add_core_of = VTC
+		victory_points = {
+			13362 10 
+		}
+
+	}
+
+	provinces={
+		13304 13357 13358 13359 13360 13361 13362 13363 
+	}
+	manpower=7000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

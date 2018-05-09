@@ -1,0 +1,23 @@
+
+state={
+	id=780
+	name="STATE_780"
+
+	history={
+		owner = BMW
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = BMW
+
+	}
+
+	provinces={
+		10333 10391 10516 10717 12361 
+	}
+	manpower=462
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

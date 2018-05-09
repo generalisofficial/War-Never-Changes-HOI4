@@ -115,7 +115,7 @@ ABB = {
 	color_ui = rgb { 118 247 242 }
 }
 
-VUT = {
+FIE = {
 	color = rgb { 142 190 195 }
 	color_ui = rgb { 142 190 195 }
 }
@@ -158,11 +158,6 @@ JAK = {
 MKA = {
 	color = rgb { 175 25 100 }
 	color_ui = rgb { 175 25 100 }
-}
-
-MRA = {
-	color = rgb { 135 45 45 }
-	color_ui = rgb { 135 45 45 }
 }
 
 NIP = {

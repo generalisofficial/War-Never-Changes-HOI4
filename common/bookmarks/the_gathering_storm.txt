@@ -107,9 +107,9 @@ bookmarks = {
 			
 			}
 		}
-		"VUT"={
+		"FIE"={
 			minor = yes
-			history = "CZE_GATHERING_STORM_DESC"
+			history = "FIE_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
 			

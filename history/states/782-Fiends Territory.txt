@@ -1,0 +1,29 @@
+
+state={
+	id=782
+	name="STATE_782"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = FIE
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = FIE
+		victory_points = {
+			13217 5 
+		}
+
+	}
+
+	provinces={
+		13211 13217 
+	}
+	manpower=213
+	buildings_max_level_factor=1.000
+	state_category=town
+}

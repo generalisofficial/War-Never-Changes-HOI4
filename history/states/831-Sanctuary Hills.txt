@@ -1,22 +1,28 @@
+
 state={
 	id=831
 	name="STATE_831"
+
 	history={
 		owner = MNM
 		buildings = {
 			infrastructure = 5
+
 		}
-                add_core_of = MNM
+		add_core_of = MNM
 		victory_points = {
-		     13253 5 
+			13253 5 
 		}
-		
+	    victory_points = {
+			13254 1
+		}
 
 	}
+
 	provinces={
-		13253 
+		13253 13254 
 	}
 	manpower=15
 	buildings_max_level_factor=1.000
-        state_category=town
+	state_category=town
 }
