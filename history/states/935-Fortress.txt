@@ -1,0 +1,21 @@
+
+state={
+	id=935
+	name="STATE_935"
+
+	history={
+		owner = OZK
+		victory_points = {
+			4449 5
+		}
+		add_core_of = OZK
+
+	}
+
+	provinces={
+		4449 12346 
+	}
+	manpower=79
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

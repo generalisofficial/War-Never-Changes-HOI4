@@ -446,6 +446,11 @@ WST = {
 	color_ui = rgb { 0 0 0 }
 }
 
+OZK = {
+	color = rgb { 2 67 92 }
+	color_ui = rgb { 2 67 92 }
+}
+
 
 
 

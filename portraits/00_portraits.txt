@@ -14,10 +14,10 @@ default = {
 	#}
 	
 	male = {
-		"gfx/leaders/generic/male/male_1.dds"
+		"gfx/leaders/generic/male_1.dds"
 	}
 	female = {
-		"gfx/leaders/generic/female/female_1.dds"
+		"gfx/leaders/generic/female_1.dds"
 	}
 }
 

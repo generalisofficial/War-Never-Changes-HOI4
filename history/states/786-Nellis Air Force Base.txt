@@ -1,44 +1,32 @@
+
 state={
 	id=786
 	name="STATE_786"
-	
-		manpower = 2500
-	
-	state_category = city
-	
 	resources={
-		oil=350
-		tungsten=500
-		steel=25
-	
-
+		oil=350.000
+		tungsten=500.000
+		steel=25.000
 	}
-	
+
 	history={
 		owner = BOO
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
 			industrial_complex = 2
-		
-			
-	
 
 		}
 		add_core_of = BOO
-		
-			victory_points = {
+		victory_points = {
 			13223 20 
 		}
-	
-	
-	}
-	
-	
-	
-	
-	provinces={
-		13223 
+
 	}
 
+	provinces={
+		13223 13335 
+	}
+	manpower=2500
+	buildings_max_level_factor=1.000
+	state_category=city
 }
