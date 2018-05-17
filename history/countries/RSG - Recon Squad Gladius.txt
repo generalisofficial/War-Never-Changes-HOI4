@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_DANSE_DESC"
 	picture = "Danse.dds"
 	expire = "2300.1.1"
-	ideology = centrism
+	ideology = settlement
 	traits = {
 		#
 	}

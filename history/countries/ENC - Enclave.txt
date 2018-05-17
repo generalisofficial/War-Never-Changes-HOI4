@@ -2,9 +2,8 @@
 
 oob = "ENC_2281"
 
-# Starting tech
 set_technology = {
-	infantry_weapons = 1
+	infantry_weapons = 0
 }
 set_convoys = 5
 
@@ -12,36 +11,42 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 80
+			popularity = 28
 		}
 
 		fascism = {
-			popularity = 20
+			popularity = 0
 		}
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
-			popularity = 0
+			popularity = 72
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "2281.1.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 
 create_country_leader = {
-	name = "John Henry Eden"
-	desc = "POLITICS_EDEN_DESC"
-	picture = "Eden.dds"
-	expire = "1965.1.1"
-	ideology = conservatism
-	traits = {
-		#
-	}
+	name = "Arch Dornan"
+	picture = "Arch_Dornan.dds"
+	ideology = authoritarian_democracy
+}
+
+create_field_marshal = {
+	name = "Augustus Autumn"
+	picture = "Augustus_Autumn.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Buzzsaw Steve"
+	picture = "Steve.dds"
+	skill = 3
 }

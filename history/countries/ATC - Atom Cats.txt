@@ -37,11 +37,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Zeke"
-	desc = "POLITICS_ZEKE_DESC"
 	picture = "Zeke.dds"
-	expire = "2300.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
+	ideology = settlement
 }

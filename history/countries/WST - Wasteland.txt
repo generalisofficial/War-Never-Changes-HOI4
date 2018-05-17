@@ -34,5 +34,5 @@ set_politics = {
 
 create_country_leader = {
 	name = " "
-	ideology = centrism
+	ideology = settlement
 }

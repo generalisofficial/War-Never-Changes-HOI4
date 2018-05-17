@@ -139,7 +139,10 @@ ideologies = {
 			moderatism = {
 			}
 			
-			centrism = {
+			settlement = {
+			}
+			
+		    authoritarian_democracy = {
 			}
 		}
 
