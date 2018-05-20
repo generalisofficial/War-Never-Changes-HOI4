@@ -21,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 20
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,44 +36,24 @@ set_politics = {
 
 create_country_leader = {
 	name = "Colter"
-	desc = "POLITICS_COLTER_DESC"
 	picture = "Colter.dds"
-	expire = "2300.1.1"
 	ideology = conservatism
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Nisha"
-	desc = "POLITICS_NISHA_DESC"
 	picture = "Nisha.dds"
-	expire = "2300.1.1"
 	ideology = anarchist_communism
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Mason"
-	desc = "POLITICS_MASON_DESC"
 	picture = "Mason.dds"
-	expire = "2300.1.1"
 	ideology = fascism_ideology
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {
 	name = "Mags Black"
-	desc = "POLITICS_MAGS_DESC"
 	picture = "Mags.dds"
-	expire = "2300.1.1"
 	ideology = oligarchism
-	traits = {
-		#
-	}
 }

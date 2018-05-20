@@ -451,6 +451,11 @@ OZK = {
 	color_ui = rgb { 2 67 92 }
 }
 
+CAA = {
+	color = rgb { 178 8 56 }
+	color_ui = rgb { 178 8 56 }
+}
+
 
 
 
