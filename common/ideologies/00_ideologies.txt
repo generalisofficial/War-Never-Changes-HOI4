@@ -48,6 +48,8 @@ ideologies = {
 		types = {
 			anarchist_communism = {
 			}
+			guevarism = {
+			}
 			hubology = {
 			}
 			atom = {
@@ -98,7 +100,7 @@ ideologies = {
 			falangism = {
 			}
 			
-			rexism = {
+			raider = {
 			}
 		}
 		

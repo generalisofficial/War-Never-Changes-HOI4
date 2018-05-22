@@ -456,6 +456,11 @@ CAA = {
 	color_ui = rgb { 178 8 56 }
 }
 
+LPR = {
+	color = rgb { 192 0 0 }
+	color_ui = rgb { 192 0 0 }
+}
+
 
 
 

@@ -89,6 +89,7 @@ PEO = "countries/PEO.txt"
 WST = "countries/WST.txt"
 OZK = "countries/Ozark.txt"
 CAA = "countries/Custers American Army.txt"
+LPR = "countries/Los Panuelos Rojos.txt"
 
 
 
