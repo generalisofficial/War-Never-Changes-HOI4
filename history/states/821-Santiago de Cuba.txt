@@ -7,16 +7,21 @@ state={
 		owner = LPR
 		buildings = {
 			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
 			1550 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = LPR
+		add_core_of = OUF
 
 	}
 
 	provinces={
-		1550 7546 7590 12347 
+		1550 7590 12347 
 	}
 	manpower=2841
 	buildings_max_level_factor=1.000

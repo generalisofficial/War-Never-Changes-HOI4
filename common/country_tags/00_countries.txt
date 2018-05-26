@@ -90,6 +90,7 @@ WST = "countries/WST.txt"
 OZK = "countries/Ozark.txt"
 CAA = "countries/Custers American Army.txt"
 LPR = "countries/Los Panuelos Rojos.txt"
+OUF = "countries/The Outfit.txt"
 
 
 

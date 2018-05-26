@@ -1,22 +1,25 @@
+
 state={
 	id=810
 	name="STATE_810"
+
 	history={
 		owner = DVD
 		buildings = {
 			infrastructure = 1
-		}	
+
+		}
 		add_core_of = DVD
-		
-			victory_points = {
-			12425 1
+		victory_points = {
+			12425 1 
 		}
 
 	}
+
 	provinces={
-		12425 
+		12425 13237 
 	}
 	manpower=124
 	buildings_max_level_factor=1.000
-        state_category=rural
+	state_category=rural
 }

@@ -461,6 +461,11 @@ LPR = {
 	color_ui = rgb { 192 0 0 }
 }
 
+OUF = {
+	color = rgb { 23 27 235 }
+	color_ui = rgb { 23 27 235 }
+}
+
 
 
 
