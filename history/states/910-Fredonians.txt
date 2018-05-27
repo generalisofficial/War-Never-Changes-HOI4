@@ -1,0 +1,25 @@
+
+state={
+	id=910
+	name="STATE_910"
+
+	history={
+		owner = CEL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CEL
+		victory_points = {
+			13307 1 
+		}
+
+	}
+
+	provinces={
+		7821 10573 12765 
+	}
+	manpower=189
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

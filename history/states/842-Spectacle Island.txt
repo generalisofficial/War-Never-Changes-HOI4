@@ -2,15 +2,12 @@ state={
 	id=842
 	name="STATE_842"
 	history={
-		owner = MNM
-		buildings = {
-			infrastructure = 1
-		}
+		owner = WST
 	}
 	provinces={
 		13263 
 	}
-	manpower=12
+	manpower=4
 	buildings_max_level_factor=1.000
     state_category=tiny_island
 }

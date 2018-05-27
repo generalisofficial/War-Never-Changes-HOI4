@@ -1,0 +1,20 @@
+state={
+	id=828
+	name="STATE_828"
+	history={
+		owner = MNR
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = MNR
+		victory_points = {
+		    13250 1 
+		}
+	}
+	provinces={
+		13250 
+	}
+	manpower=84
+	buildings_max_level_factor=1.000
+    state_category=town
+}

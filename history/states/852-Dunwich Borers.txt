@@ -1,0 +1,13 @@
+state={
+	id=852
+	name="STATE_852"
+	history={
+		owner = WST
+	}
+	provinces={
+		13271 
+	}
+	manpower=6
+	buildings_max_level_factor=1.000
+    state_category=wasteland
+}

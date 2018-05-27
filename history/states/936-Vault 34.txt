@@ -1,22 +1,16 @@
+
 state={
 	id=936
 	name="STATE_936"
-            history={
-		owner = FEG
-		buildings = {
-			infrastructure = 3
-                                                industrial_complex = 1
-		}
-                               victory_points = {
-		     13334 1 
-		}
-                     add_core_of = FEG
-                     add_core_of = BOO
-	}  
+
+	history={
+		owner = WST
+	}
+
 	provinces={
 		13334 
 	}
-	manpower=74
+	manpower=18
 	buildings_max_level_factor=1.000
-                state_category=town
+	state_category=wasteland
 }

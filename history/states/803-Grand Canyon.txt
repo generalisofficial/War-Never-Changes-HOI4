@@ -1,13 +1,17 @@
+
 state={
 	id=803
 	name="STATE_803"
+
 	history={
-		owner = USA
+		owner = XXX
+
 	}
+
 	provinces={
-		850 
+		850 13307 
 	}
-	manpower=160
+	manpower=14
 	buildings_max_level_factor=1.000
-    state_category=rural
+	state_category=wasteland
 }
