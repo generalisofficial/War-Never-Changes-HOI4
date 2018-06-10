@@ -2,15 +2,14 @@ state={
 	id=819
 	name="STATE_819"
 	history={
-		owner = TAV
+		owner = SNF
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = TAV
-                add_core_of = SNF
+        add_core_of = SNF
 		
 			victory_points = {
-			13243 5 
+			13243 1
 		}
 		
 

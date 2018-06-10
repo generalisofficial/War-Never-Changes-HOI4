@@ -2,18 +2,12 @@ state={
 	id=858
 	name="STATE_858"
 	history={
-		owner = RAI
-		buildings = {
-			infrastructure = 1
-		}
-		victory_points = {
-		     13278 1 
-		}
+		owner = WST
 	}
 	provinces={
 		13278 
 	}
 	manpower=19
 	buildings_max_level_factor=1.000
-    state_category=town
+    state_category=wasteland
 }

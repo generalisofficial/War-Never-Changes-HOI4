@@ -1,0 +1,21 @@
+
+state={
+	id=917
+	name="STATE_917"
+
+	history={
+		owner = CKE
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = CKE
+	}
+
+	provinces={
+		1618 1806 2043 5103 7762 7904 10798 11802 
+	}
+	manpower=293
+	buildings_max_level_factor=1.000
+	state_category=town
+}

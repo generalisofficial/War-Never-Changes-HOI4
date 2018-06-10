@@ -2,7 +2,6 @@
 
 oob = "MNM_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -21,7 +20,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,11 +35,18 @@ set_politics = {
 
 create_country_leader = {
 	name = "Joe Becker"
-	desc = "POLITICS_BECKER_DESC"
-	picture = "Becker.dds"
-	expire = "2300.1.1"
+	picture = "Joe_Becker.dds"
 	ideology = conservatism
-	traits = {
-		#
-	}
+}
+
+create_field_marshal = {
+	name = "Preston Garvey"
+	picture = "Preston_Garvey.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Ronnie Shaw"
+	picture = "Ronnie_Shaw.dds"
+	skill = 2
 }

@@ -2,7 +2,6 @@
 
 oob = "SNF_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -16,20 +15,19 @@ set_politics = {
 		}
 
 		fascism = {
-			popularity = 0
+			popularity = 81
 		}
 		
 		communism = {
-			popularity = 15
-			#banned = no #default is no
+			popularity = 12
 		}
 		
 		neutrality = { 
-			popularity = 85
+			popularity = 8
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "2281.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -37,21 +35,17 @@ set_politics = {
 
 create_country_leader = {
 	name = "Shi Emperor"
-	desc = "POLITICS_EMPEROR_DESC"
 	picture = "Emperor.dds"
-	expire = "2300.1.1"
-	ideology = despotism
-	traits = {
-		#
-	}
+	ideology = fascism_ideology
 }
 create_country_leader = {
 	name = "AHS-9"
-	desc = "POLITICS_AHS_DESC"
 	picture = "AHS.dds"
-	expire = "2300.1.1"
 	ideology = hubology
-	traits = {
-		#
-	}
+}
+
+create_country_leader = {
+	name = "A. Ron Meyers"
+	picture = "RonMeyers.dds"
+	ideology = settlement
 }

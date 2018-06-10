@@ -1,0 +1,21 @@
+state={
+	id=982
+	name="STATE_982"
+	history={
+		owner = VOI
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = VOI
+		victory_points = {
+			13374 5
+		}
+
+	}
+	provinces={
+		13274 
+	}
+	manpower=117
+	buildings_max_level_factor=1.000
+	state_category=city
+}

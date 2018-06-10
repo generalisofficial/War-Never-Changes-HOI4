@@ -17,15 +17,18 @@ state={
 		add_core_of = NCR
 		add_core_of = BON
 		victory_points = {
-			9855 20 
+			9855 20
+		}
+		victory_points = {
+			9814 5
 		}
 
 	}
 
 	provinces={
-		9855 11757 13371 
+		9814 9855 11757 13371 
 	}
-	manpower=4500
+	manpower=3928
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

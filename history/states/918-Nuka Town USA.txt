@@ -1,20 +1,25 @@
+
 state={
 	id=918
 	name="STATE_918"
-                history={
+
+	history={
 		owner = NKR
 		buildings = {
 			infrastructure = 6
+
 		}
 		add_core_of = NKR
-                                victory_points = {
-		     13316 20 
+		victory_points = {
+			13316 10
 		}
-	}  
+
+	}
+
 	provinces={
-		13316 
+		13311 13312 13314 13316 
 	}
 	manpower=3
 	buildings_max_level_factor=1.000
-                state_category=city
+	state_category=city
 }

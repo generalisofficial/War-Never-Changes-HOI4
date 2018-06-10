@@ -1,0 +1,24 @@
+
+state={
+	id=785
+	name="STATE_785"
+
+	history={
+		owner = BEC
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = BEC
+		victory_points = {
+			13215 10 
+		}
+
+	}
+
+	provinces={
+		13215 
+	}
+	manpower=153
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -37,5 +37,5 @@ set_politics = {
 create_country_leader = {
 	name = "Sulik"
 	picture = "Sulik.dds"
-	ideology = despotism
+	ideology = settlement
 }

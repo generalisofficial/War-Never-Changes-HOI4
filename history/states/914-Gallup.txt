@@ -1,0 +1,21 @@
+
+state={
+	id=914
+	name="STATE_914"
+
+	history={
+		owner = CEL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CEL
+	}
+
+	provinces={
+		1972 5044 10645 10914 12552 
+	}
+	manpower=689
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

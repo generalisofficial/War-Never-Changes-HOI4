@@ -1,22 +1,22 @@
+
 state={
 	id=854
 	name="STATE_854"
+
 	history={
-		owner = RAI
+		owner = MGT
+		add_core_of = MGT
 		buildings = {
 			infrastructure = 3
+
 		}
-                add_core_of = RAI
-		victory_points = {
-		     13274 1 
-		}
-		
 
 	}
+
 	provinces={
-		13274 
+		13254 
 	}
 	manpower=83
 	buildings_max_level_factor=1.000
-        state_category=town
+	state_category=town
 }

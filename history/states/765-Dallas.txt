@@ -1,0 +1,25 @@
+
+state={
+	id=765
+	name="STATE_765"
+
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = TEX
+		victory_points = {
+			3960 10 
+		}
+
+	}
+
+	provinces={
+		805 3960 4577 5001 6968 7628 9829 10504 10778 10861 12486 
+	}
+	manpower=1928
+	buildings_max_level_factor=1.000
+	state_category=city
+}

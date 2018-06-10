@@ -1,20 +1,22 @@
+
 state={
 	id=898
 	name="STATE_898"
+
 	history={
 		owner = BTS
 		buildings = {
 			infrastructure = 2
 
-		
 		}
 		add_core_of = BTS
-		
+
 	}
+
 	provinces={
 		1587 4622 4756 10192 
 	}
 	manpower=1325
 	buildings_max_level_factor=1.000
-                state_category=town
+	state_category=town
 }

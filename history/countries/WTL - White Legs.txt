@@ -2,7 +2,6 @@
 
 oob = "WTL_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -21,7 +20,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,11 +35,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Salt-Upon-Wounds"
-	desc = "POLITICS_SALTUPONWOUNDS_DESC"
 	picture = "SaltUponWounds.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
+	ideology = raider
 }

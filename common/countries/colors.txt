@@ -190,11 +190,6 @@ TAB = {
 	color_ui = rgb { 35 105 15 }
 }
 
-VUN = {
-	color = rgb { 115 145 135 }
-	color_ui = rgb { 115 145 135 }
-}
-
 GEC = {
 	color = rgb { 50 100 30 }
 	color_ui = rgb { 50 100 30 }
@@ -203,11 +198,6 @@ GEC = {
 DVD = {
 	color = rgb { 15 230 60 }
 	color_ui = rgb { 15 230 60 }
-}
-
-TAV = {
-	color = rgb { 160 130 30 }
-	color_ui = rgb { 160 130 30 }
 }
 
 PIT = {
@@ -358,11 +348,6 @@ TEX = {
 NHU = {
 	color = rgb { 255 255 0 }
 	color_ui = rgb { 255 255 0 }
-}
-
-NWT = {
-	color = rgb { 70 130 180 }
-	color_ui = rgb { 70 130 180 }
 }
 
 NKR = {

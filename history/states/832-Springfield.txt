@@ -4,18 +4,13 @@ state={
 	name="STATE_832"
 
 	history={
-		owner = XXX
-		buildings = {
-			infrastructure = 2
-
-		}
-
+		owner = WST
 	}
 
 	provinces={
 		1441 1534 1564 10370 12463 
 	}
-	manpower=438
+	manpower=138
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=wasteland
 }
