@@ -1,0 +1,18 @@
+state={
+	id=991
+	name="STATE_991"
+	history={
+		owner = PLO
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PLO
+
+	}
+	provinces={
+		11892 13383 
+	}
+	manpower=86
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

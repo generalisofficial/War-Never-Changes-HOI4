@@ -1,0 +1,18 @@
+state={
+	id=990
+	name="STATE_990"
+	history={
+	    owner = BEC
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = BEC
+
+	}
+	provinces={
+		3957 
+	}
+	manpower=173
+	buildings_max_level_factor=1.000
+	state_category=town
+}

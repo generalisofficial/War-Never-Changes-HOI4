@@ -446,6 +446,11 @@ OUF = {
 	color_ui = rgb { 23 27 235 }
 }
 
+DAV = {
+	color = rgb { 65 105 225 }
+	color_ui = rgb { 65 105 225 }
+}
+
 
 
 

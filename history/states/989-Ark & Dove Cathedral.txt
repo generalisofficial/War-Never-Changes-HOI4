@@ -1,0 +1,18 @@
+state={
+	id=989
+	name="STATE_989"
+	history={
+	    owner = PLO
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PLO
+
+	}
+	provinces={
+		13382 
+	}
+	manpower=105
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
