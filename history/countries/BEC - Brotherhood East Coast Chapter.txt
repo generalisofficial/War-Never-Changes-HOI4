@@ -1,0 +1,132 @@
+﻿capital = 873
+
+oob = "BEC_2281"
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 0
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 0
+		}
+		
+		neutrality = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "2281.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Sarah Lyons"
+	desc = "Elder"
+	picture = "Sarah_Lyons.dds"
+	ideology = despotism
+}
+
+create_field_marshal = {
+	name = "Cross"
+	picture = "Cross.dds"
+	skill = 4
+}
+
+create_corps_commander = {
+	name = "Vargas"
+	picture = "Vargas.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Bael"
+	picture = "Bael.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Glade"
+	picture = "Glade.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Gunny"
+	picture = "Gunny.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Hoss"
+	picture = "Hoss.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Tristan"
+	picture = "Tristan.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Kodiak"
+	picture = "Kodiak.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Danse"
+	picture = "Danse.dds"
+	skill = 3
+}
+
+create_corps_commander = {
+	name = "Colvin"
+	picture = "Colvin.dds"
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Durga"
+	picture = "Durga.dds"
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Irving Gallows"
+	picture = "Gallows.dds"
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Dusk"
+	picture = "Dusk.dds"
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Cade"
+	picture = "Cade.dds"
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Larsen"
+	picture = "Larsen.dds"
+	skill = 2
+}

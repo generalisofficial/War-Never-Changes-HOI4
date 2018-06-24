@@ -35,6 +35,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Joe Becker"
+	desc = "General"
 	picture = "Joe_Becker.dds"
 	ideology = conservatism
 }
