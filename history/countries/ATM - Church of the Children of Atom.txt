@@ -2,7 +2,6 @@
 
 oob = "ATM_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -21,7 +20,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 100
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,12 +35,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Mother Isolde"
-	desc = "POLITICS_ISOLDE_DESC"
 	picture = "Isolde.dds"
-	expire = "2300.1.1"
 	ideology = atom
-	traits = {
-		#
-	}
-}
 }

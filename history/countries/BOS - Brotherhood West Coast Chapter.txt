@@ -2,7 +2,6 @@
 
 oob = "BOS_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -21,7 +20,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -35,20 +33,9 @@ set_politics = {
 	elections_allowed = no
 }
 
-create_faction = brotherhood_of_steel
-add_to_faction = BOS
-add_to_faction = BOM
-add_to_faction = RSG
-add_to_faction = BTX
-add_to_faction = BMW
-
 create_country_leader = {
-	name = "Brotherhood Elder"
-	desc = "POLITICS_ELDER_DESC"
-	picture = "BOS.dds"
-	expire = "2300.1.1"
+	name = "Maxson V"
+	desc = "Elder"
+	picture = "Maxson_V.dds"
 	ideology = despotism
-	traits = {
-		#
-	}
 }

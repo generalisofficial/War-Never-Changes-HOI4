@@ -1,5 +1,5 @@
 ﻿l_english:
- LOADING_TIP_0:0 "War. War never changes.\n- Ron Perlman"
+ LOADING_TIP_0:0 "War. War never changes."
  LOADING_TIP_1:0 "Patrolling the Mojave almost makes you with for a nuclear winter.\n- Generic NCR Trooper"
  LOADING_TIP_2:0 "Freedom is the sovereign right of every American.\n- Liberty Prime"
  LOADING_TIP_3:0 "Democracy is non-negotiable.\n- Liberty Prime"
@@ -32,3 +32,4 @@
  LOADING_TIP_30:0 "I'm a Securitron, RobCo security model 2060-B. If you ever see any of my brothers tell them Victor says howdy.\n- Victor" 
  LOADING_TIP_31:0 "If I like you, you can call me Sarge. But guess what? I don't like you! Do you understand?\n- Arch Dornan"
  LOADING_TIP_32:0 "They asked me how well I understood theoretical physics. I said I had a theoretical degree in physics. They said welcome aboard\n- Fantastic"
+ LOADING_TIP_33:0 "You needn't be afraid of me. It's my Securitrons that are going to kill you.\n- Robert House"

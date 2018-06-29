@@ -2,7 +2,6 @@
 
 oob = "KKK_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
@@ -22,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -38,11 +36,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jack Everett Cooper"
-	desc = "POLITICS_JACK_EVERETT_COOPER_DESC"
+	desc = "Grand Wizard"
 	picture = "GrandWizard.dds"
-	expire = "2300.1.1"
 	ideology = nazism
-	traits = {
-		#
-	}
 }

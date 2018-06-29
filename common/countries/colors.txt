@@ -235,11 +235,6 @@ GRG = {
 	color_ui = rgb { 150 10 30 }
 }
 
-RSG = {
-	color = rgb { 15 98 212 }
-	color_ui = rgb { 15 98 212 }
-}
-
 RLR = {
 	color = rgb { 255 165 0 }
 	color_ui = rgb { 255 165 0 }
@@ -447,8 +442,13 @@ OUF = {
 }
 
 DAV = {
-	color = rgb { 65 105 225 }
-	color_ui = rgb { 65 105 225 }
+	color = rgb { 45 85 125 }
+	color_ui = rgb { 45 855 125 }
+}
+
+BEC = {
+	color = rgb { 15 98 212 }
+	color_ui = rgb { 15 98 212 }
 }
 
 

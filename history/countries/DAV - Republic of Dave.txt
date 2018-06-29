@@ -35,18 +35,21 @@ set_politics = {
 
 create_country_leader = {
 	name = "Dave"
+	desc = "President"
 	picture = "Dave.dds"
 	ideology = authoritarian_democracy
 }
 
 create_country_leader = {
 	name = "Rosie"
+	desc = "President"
 	picture = "Rosie.dds"
 	ideology = liberalism
 }
 
 create_country_leader = {
 	name = "Bob"
+	desc = "President"
 	picture = "Bob.dds"
 	ideology = fascism_ideology
 }

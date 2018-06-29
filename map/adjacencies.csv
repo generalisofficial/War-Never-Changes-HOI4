@@ -185,4 +185,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13299;13234;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;13228;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;11814;impassable;-1;-1;-1;-1;-1;;mojave desert east
+7667;13237;impassable;-1;-1;-1;-1;-1;;the divide
+7667;13240;impassable;-1;-1;-1;-1;-1;;the divide
+4521;13240;impassable;-1;-1;-1;-1;-1;;the divide
 -1;-1;;-1;-1;-1;-1;-1;-1
