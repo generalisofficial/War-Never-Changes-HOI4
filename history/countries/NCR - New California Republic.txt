@@ -5,6 +5,7 @@ oob = "NCR_2281"
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 if = {
@@ -61,6 +62,8 @@ set_politics = {
 }
 
 diplomatic_relation = { country = NVE relation = non_aggression_pact }
+give_guarantee = NVE
+give_military_access = NVE
 
 create_faction = Pro-NCR
 add_to_faction = NCR
