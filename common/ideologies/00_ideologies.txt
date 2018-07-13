@@ -12,6 +12,7 @@ ideologies = {
 		
 			socialism = {
 			}
+			
 		}
 		
 		dynamic_faction_names = {
@@ -46,7 +47,8 @@ ideologies = {
 	communism = {
 		
 		types = {
-			anarchist_communism = {
+		
+			anarchism = {
 			}
 			guevarism = {
 			}
@@ -56,6 +58,7 @@ ideologies = {
 			}
 			religious = {
 			}
+		
 		}
 		
 		dynamic_faction_names = {
@@ -102,6 +105,7 @@ ideologies = {
 			
 			raider = {
 			}
+			
 		}
 		
 		dynamic_faction_names = {
@@ -146,6 +150,7 @@ ideologies = {
 			
 		    authoritarian_democracy = {
 			}
+			
 		}
 
 		dynamic_faction_names = {

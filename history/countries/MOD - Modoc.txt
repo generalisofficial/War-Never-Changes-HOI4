@@ -2,10 +2,10 @@
 
 oob = "MOD_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 set_politics = {
@@ -21,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -33,15 +32,4 @@ set_politics = {
 	last_election = "2281.1.1"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-create_country_leader = {
-	name = "MOD"
-	desc = "POLITICS_IMAM_YAHYA_DESC"
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
-	}
 }

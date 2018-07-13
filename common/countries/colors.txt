@@ -110,11 +110,6 @@ VTC = {
 	color_ui = rgb { 120 221 213 }
 }
 
-ABB = {
-	color = rgb { 118 247 242 }
-	color_ui = rgb { 118 247 242 }
-}
-
 FIE = {
 	color = rgb { 142 190 195 }
 	color_ui = rgb { 142 190 195 }
@@ -168,11 +163,6 @@ NIP = {
 NOV = {
 	color = rgb { 15 180 105 }
 	color_ui = rgb { 15 180 105 }
-}
-
-NRA = {
-	color = rgb { 255 70 90 }
-	color_ui = rgb { 255 70 90 }
 }
 
 POG = {

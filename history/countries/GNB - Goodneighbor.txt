@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_HANCOCK_DESC"
 	picture = "Hancock.dds"
 	expire = "2300.1.1"
-	ideology = anarchist_communism
+	ideology = anarchism
 	traits = {
 		#
 	}

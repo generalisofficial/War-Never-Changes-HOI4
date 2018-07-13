@@ -48,7 +48,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Clayton Ettienne"
 	picture = "Ettienne.dds"
-	ideology = anarchist_communism
+	ideology = anarchism
 }
 
 create_country_leader = {

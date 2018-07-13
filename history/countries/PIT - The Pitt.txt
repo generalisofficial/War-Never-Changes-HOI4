@@ -2,10 +2,10 @@
 
 oob = "PIT_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 set_politics = {
@@ -21,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 40
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,21 +36,12 @@ set_politics = {
 
 create_country_leader = {
 	name = "Wernher"
-	desc = "POLITICS_WERNHER_DESC"
 	picture = "Wernher.dds"
-	expire = "2300.1.1"
-	ideology = anarchist_communism
-	traits = {
-		#
-	}
+	ideology = anarchism
 }
+
 create_country_leader = {
 	name = "Ishmael Ashur"
-	desc = "POLITICS_ASHUR_DESC"
-	picture = "Ashur.dds"
-	expire = "2300.1.1"
+	picture = "Ishmael_Ashur.dds"
 	ideology = despotism
-	traits = {
-		#
-	}
 }

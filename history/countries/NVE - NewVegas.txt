@@ -54,6 +54,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Benny"
 	picture = "Benny.dds"
-	ideology = anarchist_communism
+	ideology = anarchism
 }
 

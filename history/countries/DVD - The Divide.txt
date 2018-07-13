@@ -48,7 +48,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ulysses"
 	picture = "Ulysses.dds"
-	ideology = anarchist_communism
+	ideology = anarchism
 }
 
 create_field_marshal = {

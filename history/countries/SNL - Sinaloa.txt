@@ -2,10 +2,10 @@
 
 oob = "SNL_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 set_politics = {
@@ -21,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,11 +36,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Ivan Coronil Guzman"
-	desc = "POLITICS_IVAN_GUZMAN_DESC"
-	picture = "IvanGuzman.dds"
-	expire = "2300.1.1"
+	picture = "Ivan_Coronil_Guzman.dds"
 	ideology = fascism_ideology
-	traits = {
-		#
-	}
 }

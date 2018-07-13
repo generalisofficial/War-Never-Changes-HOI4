@@ -7,6 +7,33 @@ set_technology = {
 }
 set_convoys = 5
 
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = NWR
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.4
+	}
+	set_autonomy = {
+		target = MOD
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.1
+	}
+	set_autonomy = {
+		target = TDE
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}
+	
+	else = {
+		puppet = NWR
+		puppet = MOD
+		puppet = TDE
+	}
+}
+
 set_politics = {
 
 	parties = {
@@ -37,6 +64,9 @@ diplomatic_relation = { country = NVE relation = non_aggression_pact }
 
 create_faction = Pro-NCR
 add_to_faction = NCR
+add_to_faction = NWR
+add_to_faction = MOD
+add_to_faction = TDE
 
 create_country_leader = {
 	name = "Aaron Kimball"

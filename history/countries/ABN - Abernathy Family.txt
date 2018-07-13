@@ -2,10 +2,10 @@
 
 oob = "ABN_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 set_politics = {
@@ -21,7 +21,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -37,11 +36,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Blake Abernathy"
-	desc = "POLITICS_BLAKE_ABERNATHY_DESC"
-	picture = "BlakeAbernathy.dds"
-	expire = "2300.1.1"
+	picture = "Blake_Abernathy.dds"
 	ideology = moderatism
-	traits = {
-		#
-	}
 }
