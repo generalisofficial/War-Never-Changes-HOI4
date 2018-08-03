@@ -441,6 +441,11 @@ BEC = {
 	color_ui = rgb { 15 98 212 }
 }
 
+VOI = {
+	color = rgb { 221 120 208 }
+	color_ui = rgb { 221 120 208 }
+}
+
 
 
 

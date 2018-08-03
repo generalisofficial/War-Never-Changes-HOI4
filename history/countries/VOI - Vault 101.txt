@@ -1,0 +1,54 @@
+﻿capital = 754
+
+oob = "VOI_2281"
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 24
+		}
+
+		fascism = {
+			popularity = 13
+		}
+		
+		communism = {
+			popularity = 0
+		}
+		
+		neutrality = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "2281.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Amata Almodovar"
+	picture = "Amata_Almodovar.dds"
+	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Butch DeLoria"
+	picture = "Butch_DeLoria.dds"
+	ideology = raider
+}
+
+create_country_leader = {
+	name = "Alphonse Almodovar"
+	picture = "Alphonse_Almodovar.dds"
+	ideology = settlement
+}
+

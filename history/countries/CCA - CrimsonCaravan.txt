@@ -2,10 +2,10 @@
 
 oob = "CCA_2281"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
+
 set_convoys = 5
 
 
@@ -22,7 +22,6 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
 		}
 		
 		neutrality = { 
@@ -38,11 +37,6 @@ set_politics = {
 
 create_country_leader = {
 	name = "Alice McLafferty"
-	desc = "POLITICS_MCLAFFERTY_DESC"
 	picture = "McLafferty.dds"
-	expire = "2300.1.1"
 	ideology = oligarchism
-	traits = {
-		#
-	}
 }
