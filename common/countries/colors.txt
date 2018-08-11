@@ -446,6 +446,16 @@ VOI = {
 	color_ui = rgb { 221 120 208 }
 }
 
+ANA = {
+	color = rgb { 23 27 235 }
+	color_ui = rgb { 23 27 235 }
+}
+
+PLO = {
+	color = rgb { 70 70 70 }
+	color_ui = rgb { 70 70 70 }
+}
+
 
 
 

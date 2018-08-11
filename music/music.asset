@@ -8,31 +8,31 @@ music = {
 }
 
 music = {
-	name = "AccentuateThePositive"
+	name = "Accentuate The Positive"
 	file = "AccentuateThePositive.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "AnythingGoes"
+	name = "Anything Goes"
 	file = "AnythingGoes.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "AtomBombBaby"
+	name = "Atom Bomb Baby"
 	file = "AtomBombBaby.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "AWonderfulGuy"
+	name = "A Wonderful Guy"
 	file = "AWonderfulGuy.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "BoogieMan"
+	name = "Boogie Man"
 	file = "BoogieMan.ogg"
 	volume = 0.65
 }
@@ -50,115 +50,115 @@ music = {
 }
 
 music = {
-	name = "CrawlOutThroughTheFallout"
+	name = "Crawl Out Through The Fallout"
 	file = "CrawlOutThroughTheFallout.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "CrazyHeCallsMe"
+	name = "Crazy He Calls Me"
 	file = "CrazyHeCallsMe.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "DearHeartsAndGentlePeople"
+	name = "Dear Hearts And Gentle People"
 	file = "DearHeartsAndGentlePeople.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "EasyLiving"
+	name = "Easy Living"
 	file = "EasyLiving.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "FoxBoogie"
+	name = "Fox Boogie"
 	file = "FoxBoogie.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "GoodRockinTonight"
+	name = "Good Rockin Tonight"
 	file = "GoodRockinTonight.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "GrandmaPlaysTheNumbers"
+	name = "Grandma Plays The Numbers"
 	file = "GrandmaPlaysTheNumbers.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "HappyTimes"
+	name = "Happy Times"
 	file = "HappyTimes.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "HesADemonHesADevilHesADoll"
+	name = "Hes A Demon Hes A Devil Hes A Doll"
 	file = "HesADemonHesADevilHesADoll.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "IDontWantToSetTheWorldOnFire"
+	name = "I Dont Want To Set The World On Fire"
 	file = "IDontWantToSetTheWorldOnFire.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ImTickledPink"
+	name = "Im Tickled Pink"
 	file = "ImTickledPink.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "IntoEachLifeSomeRainMustFall"
+	name = "Into Each Life Some Rain Must Fall"
 	file = "IntoEachLifeSomeRainMustFall.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ItsAllOverButTheCrying"
+	name = "Its All Over But The Crying"
 	file = "ItsAllOverButTheCrying.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ItsAMan"
+	name = "Its A Man"
 	file = "ItsAMan.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ItsTheEndOfTheWorld"
+	name = "Its The End Of The World"
 	file = "ItsTheEndOfTheWorld.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "JazzyInterlude"
+	name = "Jazzy Interlude"
 	file = "JazzyInterlude.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "JollyDays"
+	name = "Jolly Days"
 	file = "JollyDays.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "KeepAKnockin"
+	name = "Keep A Knockin"
 	file = "KeepAKnockin.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "LetsGoSunning"
+	name = "Lets Go Sunning"
 	file = "LetsGoSunning.ogg"
 	volume = 0.65
 }
@@ -170,19 +170,19 @@ music = {
 }
 
 music = {
-	name = "MightyMightyMan"
+	name = "Mighty Mighty Man"
 	file = "MightyMightyMan.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "OneMoreTomorrow"
+	name = "One More Tomorrow"
 	file = "OneMoreTomorrow.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "OrangeColoredSky"
+	name = "Orange Colored Sky"
 	file = "OrangeColoredSky.ogg"
 	volume = 0.65
 }
@@ -194,43 +194,43 @@ music = {
 }
 
 music = {
-	name = "PistolPackinMama"
+	name = "Pistol Packin Mama"
 	file = "PistolPackinMama.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "RightBehindYouBaby"
+	name = "Right Behind You Baby"
 	file = "RightBehindYouBaby.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "Rocket69"
+	name = "Rocket 69"
 	file = "Rocket69.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "RythmForYou"
+	name = "Rythm For You"
 	file = "RythmForYou.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "SixtyMinuteMan"
+	name = "Sixty Minute Man"
 	file = "SixtyMinuteMan.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "SwingDoors"
+	name = "Swing Doors"
 	file = "SwingDoors.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "TheWanderer"
+	name = "The Wanderer"
 	file = "TheWanderer.ogg"
 	volume = 0.65
 }
@@ -242,114 +242,114 @@ music = {
 }
 
 music = {
-	name = "UraniumFever"
+	name = "Uranium Fever"
 	file = "UraniumFever.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "UraniumRock"
+	name = "Uranium Rock"
 	file = "UraniumRock.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "WayBackHome"
+	name = "Way Back Home"
 	file = "WayBackHome.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "WholeLatteShakinGoingOn"
+	name = "Whole Latte Shakin Going On"
 	file = "WholeLatteShakinGoingOn.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "WorryWorryWorry"
+	name = "Worry Worry Worry"
 	file = "WorryWorryWorry.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "AintThatAKickInTheHead"
+	name = "Aint That A Kick In The Head"
 	file = "AintThatAKickInTheHead.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "AmericanSwing"
+	name = "American Swing"
 	file = "AmericanSwing.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "BigIron"
+	name = "Big Iron"
 	file = "BigIron.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "BlueMoon"
+	name = "Blue Moon"
 	file = "BlueMoon.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "HeartachesByTheNumber"
+	name = "Heartaches By The Number"
 	file = "HeartachesByTheNumber.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "ItsASinToTellALie"
+	name = "Its A Sin To Tell A Lie"
 	file = "ItsASinToTellALie.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "JingleJangleJingle"
+	name = "Jingle Jangle Jingle"
 	file = "JingleJangleJingle.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "JohnnyGuitar"
+	name = "Johnny Guitar"
 	file = "JohnnyGuitar.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "LoveMeAsThoughThereWereNoTomorrow"
+	name = "Love Me As Though There Were No Tomorrow"
 	file = "LoveMeAsThoughThereWereNoTomorrow.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "MadAboutTheBoy"
+	name = "Mad About The Boy"
 	file = "MadAboutTheBoy.ogg"
 	volume = 0.65
 }
 music = {
-	name = "WhereHaveYouBeenAllMyLife"
+	name = "Where Have You Been All My Life"
 	file = "WhereHaveYouBeenAllMyLife.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "SomethingsGottaGive"
+	name = "Somethings Gotta Give"
 	file = "SomethingsGottaGive.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "BeginAgain"
+	name = "Begin Again"
 	file = "BeginAgain.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "WhyDontYouDoRight"
+	name = "Why Dont You Do Right"
 	file = "WhyDontYouDoRight.ogg"
 	volume = 0.65
 }

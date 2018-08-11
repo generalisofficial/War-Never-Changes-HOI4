@@ -9,7 +9,7 @@ music = {
 }
 
 music = {
-	song = "AccentuateThePositive"
+	song = "Accentuate The Positive"
 	
 	chance = {
 		modifier = {
@@ -20,7 +20,7 @@ music = {
 }
 
 music = {
-	song = "AnythingGoes"
+	song = "Anything Goes"
 	
 	chance = {
 		modifier = {
@@ -31,7 +31,7 @@ music = {
 }
 
 music = {
-	song = "AtomBombBaby"
+	song = "Atom Bomb Baby"
 	
 	chance = {
 		modifier = {
@@ -42,7 +42,7 @@ music = {
 }
 
 music = {
-	song = "AWonderfulGuy"
+	song = "A Wonderful Guy"
 	
 	chance = {
 		modifier = {
@@ -53,7 +53,7 @@ music = {
 }
 
 music = {
-	song = "BoogieMan"
+	song = "Boogie Man"
 	
 	chance = {
 		modifier = {
@@ -86,7 +86,7 @@ music = {
 }
 
 music = {
-	song = "CrawlOutThroughTheFallout"
+	song = "Crawl Out Through The Fallout"
 	
 	chance = {
 		modifier = {
@@ -97,7 +97,7 @@ music = {
 }
 
 music = {
-	song = "CrazyHeCallsMe"
+	song = "Crazy He Calls Me"
 	
 	chance = {
 		modifier = {
@@ -108,7 +108,7 @@ music = {
 }
 
 music = {
-	song = "DearHeartsAndGentlePeople"
+	song = "Dear Hearts And Gentle People"
 	
 	chance = {
 		modifier = {
@@ -119,7 +119,7 @@ music = {
 }
 
 music = {
-	song = "EasyLiving"
+	song = "Easy Living"
 	
 	chance = {
 		modifier = {
@@ -130,7 +130,7 @@ music = {
 }
 
 music = {
-	song = "FoxBoogie"
+	song = "Fox Boogie"
 	
 	chance = {
 		modifier = {
@@ -141,7 +141,7 @@ music = {
 }
 
 music = {
-	song = "GoodRockinTonight"
+	song = "Good Rockin Tonight"
 	
 	chance = {
 		modifier = {
@@ -152,7 +152,7 @@ music = {
 }
 
 music = {
-	song = "GrandmaPlaysTheNumbers"
+	song = "Grandma Plays The Numbers"
 	
 	chance = {
 		modifier = {
@@ -163,7 +163,7 @@ music = {
 }
 
 music = {
-	song = "HappyTimes"
+	song = "Happy Times"
 	
 	chance = {
 		modifier = {
@@ -174,7 +174,7 @@ music = {
 }
 
 music = {
-	song = "HesADemonHesADevilHesADoll"
+	song = "Hes A Demon Hes A Devil Hes A Doll"
 	
 	chance = {
 		modifier = {
@@ -185,7 +185,7 @@ music = {
 }
 
 music = {
-	song = "IDontWantToSetTheWorldOnFire"
+	song = "I Dont Want To Set The World On Fire"
 	
 	chance = {
 		modifier = {
@@ -207,7 +207,7 @@ music = {
 }
 
 music = {
-	song = "IntoEachLifeSomeRainMustFall"
+	song = "Into Each Life Some Rain Must Fall"
 	
 	chance = {
 		modifier = {
@@ -218,7 +218,7 @@ music = {
 }
 
 music = {
-	song = "ItsAllOverButTheCrying"
+	song = "Its All Over But The Crying"
 	
 	chance = {
 		modifier = {
@@ -229,7 +229,7 @@ music = {
 }
 
 music = {
-	song = "ItsAMan"
+	song = "Its A Man"
 	
 	chance = {
 		modifier = {
@@ -240,7 +240,7 @@ music = {
 }
 
 music = {
-	song = "ItsTheEndOfTheWorld"
+	song = "Its The End Of The World"
 	
 	chance = {
 		modifier = {
@@ -251,7 +251,7 @@ music = {
 }
 
 music = {
-	song = "JazzyInterlude"
+	song = "Jazzy Interlude"
 	
 	chance = {
 		modifier = {
@@ -262,7 +262,7 @@ music = {
 }
 
 music = {
-	song = "JollyDays"
+	song = "Jolly Days"
 	
 	chance = {
 		modifier = {
@@ -273,7 +273,7 @@ music = {
 }
 
 music = {
-	song = "KeepAKnockin"
+	song = "Keep A Knockin"
 	
 	chance = {
 		modifier = {
@@ -284,7 +284,7 @@ music = {
 }
 
 music = {
-	song = "LetsGoSunning"
+	song = "Lets Go Sunning"
 	
 	chance = {
 		modifier = {
@@ -306,7 +306,7 @@ music = {
 }
 
 music = {
-	song = "MightyMightyMan"
+	song = "Mighty Mighty Man"
 	
 	chance = {
 		modifier = {
@@ -317,7 +317,7 @@ music = {
 }
 
 music = {
-	song = "OneMoreTomorrow"
+	song = "One More Tomorrow"
 	
 	chance = {
 		modifier = {
@@ -328,7 +328,7 @@ music = {
 }
 
 music = {
-	song = "OrangeColoredSky"
+	song = "Orange Colored Sky"
 	
 	chance = {
 		modifier = {
@@ -350,7 +350,7 @@ music = {
 }
 
 music = {
-	song = "PistolPackinMama"
+	song = "Pistol Packin Mama"
 	
 	chance = {
 		modifier = {
@@ -361,7 +361,7 @@ music = {
 }
 
 music = {
-	song = "RightBehindYouBaby"
+	song = "Right Behind You Baby"
 	
 	chance = {
 		modifier = {
@@ -372,7 +372,7 @@ music = {
 }
 
 music = {
-	song = "Rocket69"
+	song = "Rocket 69"
 	
 	chance = {
 		modifier = {
@@ -383,7 +383,7 @@ music = {
 }
 
 music = {
-	song = "RythmForYou"
+	song = "Rythm For You"
 	
 	chance = {
 		modifier = {
@@ -394,7 +394,7 @@ music = {
 }
 
 music = {
-	song = "SixtyMinuteMan"
+	song = "Sixty Minute Man"
 	
 	chance = {
 		modifier = {
@@ -405,7 +405,7 @@ music = {
 }
 
 music = {
-	song = "SwingDoors"
+	song = "Swing Doors"
 	
 	chance = {
 		modifier = {
@@ -416,7 +416,7 @@ music = {
 }
 
 music = {
-	song = "TheWanderer"
+	song = "The Wanderer"
 	
 	chance = {
 		modifier = {
@@ -438,7 +438,7 @@ music = {
 }
 
 music = {
-	song = "UraniumFever"
+	song = "Uranium Fever"
 	
 	chance = {
 		modifier = {
@@ -449,7 +449,7 @@ music = {
 }
 
 music = {
-	song = "UraniumRock"
+	song = "Uranium Rock"
 	
 	chance = {
 		modifier = {
@@ -460,7 +460,7 @@ music = {
 }
 
 music = {
-	song = "WayBackHome"
+	song = "Way Back Home"
 	
 	chance = {
 		modifier = {
@@ -471,7 +471,7 @@ music = {
 }
 
 music = {
-	song = "WholeLatteShakinGoingOn"
+	song = "Whole Latte Shakin Going On"
 	
 	chance = {
 		modifier = {
@@ -482,7 +482,7 @@ music = {
 }
 
 music = {
-	song = "WorryWorryWorry"
+	song = "Worry Worry Worry"
 	
 	chance = {
 		modifier = {
@@ -493,7 +493,7 @@ music = {
 }
 
 music = {
-	song = "AintThatAKickInTheHead"
+	song = "Aint That A Kick In The Head"
 	
 	chance = {
 		modifier = {
@@ -504,7 +504,7 @@ music = {
 }
 
 music = {
-	song = "AmericanSwing"
+	song = "American Swing"
 	
 	chance = {
 		modifier = {
@@ -515,7 +515,7 @@ music = {
 }
 
 music = {
-	song = "BigIron"
+	song = "Big Iron"
 	
 	chance = {
 		modifier = {
@@ -526,7 +526,7 @@ music = {
 }
 
 music = {
-	song = "BlueMoon"
+	song = "Blue Moon"
 	
 	chance = {
 		modifier = {
@@ -537,7 +537,7 @@ music = {
 }
 
 music = {
-	song = "HeartachesByTheNumber"
+	song = "Heartaches By The Number"
 	
 	chance = {
 		modifier = {
@@ -548,7 +548,7 @@ music = {
 }
 
 music = {
-	song = "ItsASinToTellALie"
+	song = "Its A Sin To Tell A Lie"
 	
 	chance = {
 		modifier = {
@@ -559,7 +559,7 @@ music = {
 }
 
 music = {
-	song = "JingleJangleJingle"
+	song = "Jingle Jangle Jingle"
 	
 	chance = {
 		modifier = {
@@ -570,7 +570,7 @@ music = {
 }
 
 music = {
-	song = "JohnnyGuitar"
+	song = "Johnny Guitar"
 	
 	chance = {
 		modifier = {
@@ -581,7 +581,7 @@ music = {
 }
 
 music = {
-	song = "LoveMeAsThoughThereWereNoTomorrow"
+	song = "Love Me As Though There Were No Tomorrow"
 	
 	chance = {
 		modifier = {
@@ -592,7 +592,7 @@ music = {
 }
 
 music = {
-	song = "MadAboutTheBoy"
+	song = "Mad About The Boy"
 	
 	chance = {
 		modifier = {
@@ -603,7 +603,7 @@ music = {
 }
 
 music = {
-	song = "SomethingsGottaGive"
+	song = "Somethings Gotta Give"
 	
 	chance = {
 		modifier = {
@@ -614,7 +614,7 @@ music = {
 }
 
 music = {
-	song = "WhereHaveYouBeenAllMyLife"
+	song = "Where Have You Been All My Life"
 	
 	chance = {
 		modifier = {
@@ -625,7 +625,7 @@ music = {
 }
 
 music = {
-	song = "AKissToBuildADreamOn"
+	song = "A Kiss To Build A Dream On"
 	
 	chance = {
 		modifier = {
@@ -636,7 +636,7 @@ music = {
 }
 
 music = {
-	song = "BeginAgain"
+	song = "Begin Again"
 	
 	chance = {
 		modifier = {
@@ -647,7 +647,7 @@ music = {
 }
 
 music = {
-	song = "WhyDontYouDoRight"
+	song = "Why Dont You Do Right"
 	
 	chance = {
 		modifier = {

@@ -1,4 +1,4 @@
-﻿capital = 754
+﻿capital = 982
 
 oob = "VOI_2281"
 

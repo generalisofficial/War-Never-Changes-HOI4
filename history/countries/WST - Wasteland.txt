@@ -1,4 +1,4 @@
-﻿capital = 827
+﻿capital = 745
 
 set_convoys = 5
 

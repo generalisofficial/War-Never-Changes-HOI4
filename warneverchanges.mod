@@ -1,4 +1,4 @@
-name="War Never Changes 2.0 ALPHA"
+name="War Never Changes"
 path="mod/War-Never-Changes-HOI4/"
 tags={
 	"Alternative History"
@@ -7,6 +7,6 @@ tags={
 }
 picture="photo.jpg"
 remote_file_id="1234353859"
-supported_version="1.5.3"
+supported_version="1.5.4"
 
 replace_path="history/countries"
