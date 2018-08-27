@@ -656,3 +656,32 @@ music = {
 		}		
 	}	
 }
+
+music = { song = "Vault 13" chance = { modifier = { factor = 2 } } }
+music = { song = "Underground Troubles" chance = { modifier = { factor = 2 } } }
+music = { song = "Trader's Life" chance = { modifier = { factor = 2 } } }
+music = { song = "The Master" chance = { modifier = { factor = 2 } } }
+music = { song = "The Glow" chance = { modifier = { factor = 2 } } }
+music = { song = "The Brotherhood of Steel" chance = { modifier = { factor = 2 } } }
+music = { song = "Chrysalis Highwayman" chance = { modifier = { factor = 2 } } }
+music = { song = "The Ink Spots - Maybe" chance = { modifier = { factor = 2 } } }
+music = { song = "Many Contrasts" chance = { modifier = { factor = 2 } } }
+music = { song = "L.A. Boneyard" chance = { modifier = { factor = 2 } } }
+music = { song = "Industrial Junk" chance = { modifier = { factor = 2 } } }
+music = { song = "Gold Slouch" chance = { modifier = { factor = 2 } } }
+music = { song = "Follower's Credo" chance = { modifier = { factor = 2 } } }
+music = { song = "Dream Town" chance = { modifier = { factor = 2 } } }
+music = { song = "City of the Dead" chance = { modifier = { factor = 2 } } }
+music = { song = "City of Lost Angeles" chance = { modifier = { factor = 2 } } }
+music = { song = "Children of the Cathedral" chance = { modifier = { factor = 2 } } }
+music = { song = "California Revisited" chance = { modifier = { factor = 2 } } }
+music = { song = "Biggest Little City in the World" chance = { modifier = { factor = 2 } } }
+music = { song = "Beyond the Canyon" chance = { modifier = { factor = 2 } } }
+music = { song = "All-Clear Signal" chance = { modifier = { factor = 2 } } }
+music = { song = "Louis Armstrong - A Kiss to Build A Dream On" chance = { modifier = { factor = 2 } } }
+music = { song = "Vats of Goo" chance = { modifier = { factor = 2 } } }
+music = { song = "Desert Wind" chance = { modifier = { factor = 2 } } }
+music = { song = "Shady Sands" chance = { modifier = { factor = 2 } } }
+music = { song = "Khans of New California" chance = { modifier = { factor = 2 } } }
+music = { song = "Moribund World" chance = { modifier = { factor = 2 } } }
+music = { song = "Desert" chance = { modifier = { factor = 2 } } }

@@ -1,0 +1,139 @@
+bookmarks = {
+	bookmark = {
+		name = "2281_NAME"
+		desc = "2281_DESC"
+		date = 2281.10.19.12
+		picture = "GFX_select_date_2281"
+		default_country = "NCR"
+		default = yes
+		
+		"NCR"={
+			history = "NCR_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"CEL"={
+			history = "CEL_DESC"
+			ideology = fascism
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"NVE"={
+			history = "NVE_DESC"
+			ideology = neutrality
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"---"={
+			history = "OTHER_DESC"
+		}
+
+		"CCA"={
+			minor = yes
+			history = "CCA_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"FRE"={
+			minor = yes
+			history = "FRE_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"TAB"={
+			minor = yes
+			history = "TAB_DESC"
+			ideology = fascism
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"MKA"={
+			minor = yes
+			history = "MKA_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"BOM"={
+			minor = yes
+			history = "BOM_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"BOO"={
+			minor = yes
+			history = "BOO_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+		"FIE"={
+			minor = yes
+			history = "FIE_DESC"
+			ideology = fascism
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		"POG"={
+			minor = yes
+			history = "POG_DESC"
+			ideology = neutrality
+			ideas = {
+			
+			}
+			focuses = {
+			
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

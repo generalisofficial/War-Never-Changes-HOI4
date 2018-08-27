@@ -353,3 +353,33 @@ music = {
 	file = "WhyDontYouDoRight.ogg"
 	volume = 0.65
 }
+
+music = { name = "Vault 13" file = "Vault 13.ogg" volume = 0.65 }
+music = { name = "Underground Troubles" file = "Underground Troubles.ogg" volume = 0.65 }
+music = { name = "Trader's Life" file = "Trader's Life.ogg" volume = 0.65 }
+music = { name = "The Master" file = "The Master.ogg" volume = 0.65 }
+music = { name = "The Glow" file = "The Glow.ogg" volume = 0.65 }
+music = { name = "The Brotherhood of Steel" file = "The Brotherhood of Steel.ogg" volume = 0.65 }
+music = { name = "Chrysalis Highwayman" file = "Chrysalis Highwayman.ogg" volume = 0.65 }
+music = { name = "The Ink Spots - Maybe" file = "The Ink Spots - Maybe.ogg" volume = 0.65 }
+music = { name = "Many Contrasts" file = "Many Contrasts.ogg" volume = 0.65 }
+music = { name = "L.A. Boneyard" file = "L.A. Boneyard.ogg" volume = 0.65 }
+music = { name = "Industrial Junk" file = "Industrial Junk.ogg" volume = 0.65 }
+music = { name = "Gold Slouch" file = "Gold Slouch.ogg" volume = 0.65 }
+music = { name = "Follower's Credo" file = "Follower's Credo.ogg" volume = 0.65 }
+music = { name = "Dream Town" file = "Dream Town.ogg" volume = 0.65 }
+music = { name = "City of the Dead" file = "City of the Dead.ogg" volume = 0.65 }
+music = { name = "City of Lost Angeles" file = "City of Lost Angeles.ogg" volume = 0.65 }
+music = { name = "Children of the Cathedral" file = "Children of the Cathedral.ogg" volume = 0.65 }
+music = { name = "California Revisited" file = "California Revisited.ogg" volume = 0.65 }
+music = { name = "Biggest Little City in the World" file = "Biggest Little City in the World.ogg" volume = 0.65 }
+music = { name = "Beyond the Canyon" file = "Beyond the Canyon.ogg" volume = 0.65 }
+music = { name = "All-Clear Signal" file = "All-Clear Signal.ogg" volume = 0.65 }
+music = { name = "Louis Armstrong - A Kiss to Build A Dream On" file = "Louis Armstrong - A Kiss to Build A Dream On.ogg" volume = 0.65 }
+music = { name = "Vats of Goo" file = "Vats of Goo.ogg" volume = 0.65 }
+music = { name = "Desert Wind" file = "Desert Wind.ogg" volume = 0.65 }
+music = { name = "Shady Sands" file = "Shady Sands.ogg" volume = 0.65 }
+music = { name = "Khans of New California" file = "Khans of New California.ogg" volume = 0.65 }
+music = { name = "Moribund World" file = "Moribund World.ogg" volume = 0.65 }
+music = { name = "Desert" file = "Desert.ogg" volume = 0.65 }
+

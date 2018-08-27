@@ -2,7 +2,7 @@ state={
 	id=929
 	name="STATE_929"
                 history={
-		owner = ELJ
+		owner = SIE
 		buildings = {
 			infrastructure = 3
                                                 arms_factory = 1
@@ -10,8 +10,7 @@ state={
                                victory_points = {
 		     13327 1 
 		}
-                     add_core_of = ELJ
-                     add_claim_by = GST
+                     add_core_of = SIE
 	}  
 	provinces={
 		13327 

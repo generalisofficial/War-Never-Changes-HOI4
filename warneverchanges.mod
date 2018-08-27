@@ -9,4 +9,5 @@ picture="photo.jpg"
 remote_file_id="1234353859"
 supported_version="1.5.4"
 
+replace_path="common/bookmarks"
 replace_path="history/countries"
