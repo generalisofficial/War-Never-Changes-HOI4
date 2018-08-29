@@ -1,20 +1,24 @@
+
 state={
 	id=945
 	name="STATE_945"
+
 	history={
 		owner = EIG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-                                                arms_factory = 1
+			arms_factory = 1
 
 		}
 		add_core_of = EIG
+
 	}
+
 	provinces={
-		1862 7756 10591 
+		1862 7756 7827 10591 
 	}
 	manpower=870
 	buildings_max_level_factor=1.000
-                state_category=rural
+	state_category=rural
 }

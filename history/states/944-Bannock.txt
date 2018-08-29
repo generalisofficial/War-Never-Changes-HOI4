@@ -1,0 +1,23 @@
+
+state={
+	id=944
+	name="STATE_944"
+
+	history={
+		owner = EIG
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		add_core_of = EIG
+
+	}
+
+	provinces={
+		9695 12535 12607 
+	}
+	manpower=524
+	buildings_max_level_factor=1.000
+	state_category=town
+}

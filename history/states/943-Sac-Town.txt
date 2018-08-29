@@ -1,21 +1,27 @@
+
 state={
 	id=943
 	name="STATE_943"
-                history={
-		owner = NCR
+
+	history={
+		owner = SNF
 		buildings = {
 			infrastructure = 5
-                                                arms_factory = 1
+			arms_factory = 1
+
 		}
-                               victory_points = {
-		     13339 20 
+		victory_points = {
+			13339 20 
 		}
-                     add_core_of = NCR
-	}  
-	provinces={
-		13339 
+		add_core_of = SNF
+		add_core_of = NCR
+
 	}
-	manpower=846
+
+	provinces={
+		677 9713 11658 13339 13340 
+	}
+	manpower=949
 	buildings_max_level_factor=1.000
-                state_category=large_city
+	state_category=large_city
 }
