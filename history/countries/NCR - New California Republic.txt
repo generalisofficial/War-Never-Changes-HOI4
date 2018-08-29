@@ -39,7 +39,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 100
+			popularity = 79
 		}
 
 		fascism = {
@@ -51,12 +51,12 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 0
+			popularity = 21
 		}
 	}
 	
 	ruling_party = democratic
-	last_election = "2276.1.1"
+	last_election = "2276.11.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -74,8 +74,15 @@ add_to_faction = TDE
 create_country_leader = {
 	name = "Aaron Kimball"
 	desc = "President"
-	picture = "Kimball.dds"
+	picture = "Aaron_Kimball.dds"
 	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Heck Gunderson"
+	desc = "President"
+	picture = "Heck_Gunderson.dds"
+	ideology = settlement
 }
 
 create_field_marshal = {
