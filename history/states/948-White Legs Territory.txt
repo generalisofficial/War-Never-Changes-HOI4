@@ -1,18 +1,22 @@
+
 state={
 	id=948
 	name="STATE_948"
+
 	history={
 		owner = WTL
 		buildings = {
 			infrastructure = 3
+
 		}
 		add_core_of = WTL
 
 	}
+
 	provinces={
-		4668 10662 12573 
+		4668 10662 12573 13379 
 	}
 	manpower=856
 	buildings_max_level_factor=1.000
-                state_category=rural
+	state_category=rural
 }
