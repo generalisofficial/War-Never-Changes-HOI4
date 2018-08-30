@@ -1,0 +1,66 @@
+scripted_gui = {
+	colonizing_button_gui = {
+		context_type = selected_state_context
+		
+		window_name = "colonizing_button_container"
+		parent_window_token = selected_state_view
+		
+		visible = {
+			NOT = { is_owned_by = ROOT }
+			is_owned_by = WST
+		}
+
+		effects = {
+			colonizing_click = {
+				ROOT = {
+					set_temp_variable = { show = 1 }
+					subtract_from_temp_variable = { show = show_colonizing }
+					set_variable = { show_colonizing = show }
+				}
+                ROOT.set_variable = {
+                    state_to_colonize = THIS.id
+                }
+			}
+		}
+
+		triggers = {
+			colonizing_click_enabled = {
+				is_owned_by = WST
+				is_controlled_by = WST
+			}
+		}
+	}
+
+	colonization_window = {
+		context_type = player_context
+
+		window_name = "colonization_window_container"
+		
+		visible = {
+			check_variable = { show_colonizing > 0 }
+		}
+		
+		effects = {
+			colonize_this_button_click = {
+				add_political_power = -200
+				set_country_flag = colonization_ongoing
+				country_event = { 
+					id = colonizing.1 days = 30 random = 1
+				}
+			}
+
+			close_button_click = {
+				set_variable = { show_colonizing = 0 }
+			}
+		}
+
+        trigger = {
+            colonize_this_button_click_enabled = {
+                ROOT = {
+                    has_political_power > 200
+                    NOT = { has_country_flag = colonization_ongoing }
+                }
+            }
+        }
+	}
+}

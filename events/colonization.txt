@@ -1,0 +1,15 @@
+﻿add_namespace = colonizing
+
+country_event = {
+    id = colonizing.1
+    hidden = yes
+
+    immediate = {
+        var:state_to_colonize = {
+            set_state_owner = ROOT
+            set_state_controller = ROOT
+        }
+        clr_country_flag = colonization_ongoing
+        clear_variable = state_to_colonize
+    }
+}
