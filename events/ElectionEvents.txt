@@ -18,19 +18,19 @@ country_event = {
 		
 		trigger = {
 			OR = {
-				AND = { has_government = democratic democratic > 0.5 }
-				AND = { has_government = democratic democratic = 0.5 }
-				AND = { has_government = communism communism > 0.5 }
-				AND = { has_government = communism communism = 0.5 }
-				AND = { has_government = fascism fascism > 0.5 }
-				AND = { has_government = fascism fascism = 0.5 }
-				AND = { has_government = neutrality neutrality > 0.5 }
-				AND = { has_government = neutrality neutrality = 0.5 }
+				AND = { has_government = democratic democratic > 0.25 }
+				AND = { has_government = democratic democratic = 0.25 }
+				AND = { has_government = communism communism > 0.25 }
+				AND = { has_government = communism communism = 0.25 }
+				AND = { has_government = fascism fascism > 0.25 }
+				AND = { has_government = fascism fascism = 0.25 }
+				AND = { has_government = neutrality neutrality > 0.25 }
+				AND = { has_government = neutrality neutrality = 0.25 }
 				AND = {
-					democratic < 0.5
-					communism < 0.5
-					fascism < 0.5
-					neutrality < 0.5
+					democratic < 0.25
+					communism < 0.25
+					fascism < 0.25
+					neutrality < 0.25
 				}
 			}
 		}
@@ -49,7 +49,7 @@ country_event = {
 		}
 		trigger = {
 			NOT = { has_government = democratic }
-			democratic > 0.5
+			democratic > 0.25
 		}
 		
 		set_politics = {
@@ -62,7 +62,7 @@ country_event = {
 		name = election.1.o3
 		trigger = {
 			NOT = { has_government = communism }
-			communism > 0.5
+			communism > 0.25
 		}
 		ai_chance = {
 			factor = 1
@@ -81,7 +81,7 @@ country_event = {
 		}
 		trigger = {
 			NOT = { has_government = fascism }
-			fascism > 0.5
+			fascism > 0.25
 		}
 		
 		set_politics = {
@@ -94,7 +94,7 @@ country_event = {
 		name = election.1.o5
 		trigger = {
 			NOT = { has_government = neutrality }
-			neutrality > 0.5
+			neutrality > 0.25
 		}
 		ai_chance = {
 			factor = 1
