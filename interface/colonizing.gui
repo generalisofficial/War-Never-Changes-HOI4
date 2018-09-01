@@ -1,13 +1,14 @@
 guiTypes = {
     containerWindowType = {
 		name = "colonizing_button_container"
-		position = { x = -2 y = 368 }
-		size = { width=480 height=29%% }
+		position = { x = -70 y = 82 }
+		size = { width = 60 height = 60 }
+		orientation = upper_right
 
 		buttonType = {
 			name = "colonizing_button"
 			spriteType ="GFX_nuke_button"
-			position = { x= 330 y = 50 }
+			position = { x = -4 y = -2 }
 			pdx_tooltip = "COLONIZATION_TT"
 		}
 	}

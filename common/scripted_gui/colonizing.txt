@@ -13,9 +13,7 @@ scripted_gui = {
 		effects = {
 			colonizing_click = {
 				ROOT = {
-					set_temp_variable = { show = 1 }
-					subtract_from_temp_variable = { show = show_colonizing }
-					set_variable = { show_colonizing = show }
+					set_variable = { show_colonizing = 1 }
 				}
                 ROOT.set_variable = {
                     state_to_colonize = THIS.id
