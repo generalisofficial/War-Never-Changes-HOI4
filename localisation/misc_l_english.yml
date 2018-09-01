@@ -1,2 +1,6 @@
 ﻿l_english:
  COLONIZATION_TT:0 "Use this button to §Ycolonize§! the §YWasteland§!.\nYou need §Y200 caps§! to colonize a state. The whole process will take around 1 month.\nYou can only colonize one state at a time."
+ COLONIZATION_BUTTON_TT:0 "[This.GetColonizationStatus]"
+ Colonization_Not_Enough_Caps:0 "You §Ydon't have enough caps§! to start the Colonization."
+ Colonization_Caps_but_ongoing:0 "You have enough caps, but §Ythere is already a colonization action ongoing§!."
+ Colonization_Okay:0 "You are §GReady to Colonize§! this state."

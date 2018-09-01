@@ -1,0 +1,30 @@
+﻿defined_text = {
+	name = GetColonizationStatus
+	
+    text = {
+		trigger = {
+			ROOT = {
+                has_political_power > 200
+                has_country_flag = colonization_ongoing
+			}
+		}
+		localization_key = Colonization_Caps_but_ongoing
+	}
+	text = {
+		trigger = {
+			ROOT = {
+                NOT = { has_political_power > 200 }
+            }
+		}
+		localization_key = Colonization_Not_Enough_Caps
+	}
+    text = {
+		trigger = {
+			ROOT = {
+                has_political_power > 200
+                NOT = { has_country_flag = colonization_ongoing }
+			}
+		}
+		localization_key = Colonization_Okay
+	}
+}

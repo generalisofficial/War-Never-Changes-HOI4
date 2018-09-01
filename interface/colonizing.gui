@@ -1,7 +1,7 @@
 guiTypes = {
     containerWindowType = {
 		name = "colonizing_button_container"
-		position = { x = -70 y = 82 }
+		position = { x = -120 y = 420 }
 		size = { width = 60 height = 60 }
 		orientation = upper_right
 
@@ -27,47 +27,50 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name ="title"
-			position = { x=100 y=20 }
+			position = { x=-10 y=20 }
 			font = "hoi_30header"
 			text = "Colonization Menu"
-			format = left
+			format = center
 			maxWidth = 450
 			maxHeight = 30
 			fixedsize = no
 		}
+
+		buttonType = {
+            name = "colonize_this_button"
+			spriteType = "GFX_generic_text_bg_154"
+			position = { x = 135 y = 96 }
+			format = left
+			pdx_tooltip = "COLONIZATION_BUTTON_TT"
+        }
 
         instantTextBoxType = {
 			name ="colonize_this"
-			position = { x=150 y=175 }
-			font = "hoi_18mbs"
+			position = { x=-10  y=100 }
+			font = "hoi_22mbs"
 			text = "Colonize This State"
-			format = left
+			format = center
 			maxWidth = 450
 			maxHeight = 30
 			fixedsize = no
+			pdx_tooltip = "COLONIZATION_BUTTON_TT"
 		}
 
-        buttonType = {
-            name = "colonize_this_button"
-			spriteType = "GFX_generic_bg"
-			position = { x = 130 y = 170 }
+		buttonType = {
+            name = "close_button"
+			spriteType = "GFX_generic_text_bg_154"
+			position = { x = 135 y = 196 }
         }
 
         instantTextBoxType = {
 			name ="abord"
-			position = { x=350 y=175 }
+			position = { x=-10  y=200 }
 			font = "hoi_18mbs"
 			text = "Abord"
-			format = left
+			format = center
 			maxWidth = 450
 			maxHeight = 30
 			fixedsize = no
-		}
-
-        buttonType = {
-            name = "close_button"
-			spriteType = "GFX_generic_bg"
-			position = { x = 330 y = 170 }
-        }
+		}        
     }
 }
