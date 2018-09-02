@@ -5,10 +5,11 @@ state={
 
 	history={
 		owner = WST
+
 	}
 
 	provinces={
-		4586 4740 4811 9802 10340 
+		4740 4811 9802 10340 
 	}
 	manpower=1251
 	buildings_max_level_factor=1.000

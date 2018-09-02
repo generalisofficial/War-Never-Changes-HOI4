@@ -1,0 +1,40 @@
+division_template = {
+	name = "Guards of the Revolution"		# Infantry Division
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+	}
+}
+###### OOB ######
+units = {
+	division= {			
+		name = "Revolutionary Spearhead Forces"		
+		location = 10374
+		division_template = "Guards of the Revolution"		
+		start_experience_factor = 0.5
+	}
+	division= {			
+		name = "1st Havana Legion"		
+		location = 10374
+		division_template = "Guards of the Revolution"		
+		start_experience_factor = 0.4
+	}
+	division= {			
+		name = "2nd Havana Legion"		
+		location = 10374
+		division_template = "Guards of the Revolution"		
+		start_experience_factor = 0.4
+	}
+	division= {			
+		name = "Anti-Imperialist Front"		
+		location = 10374
+		division_template = "Guards of the Revolution"		
+		start_experience_factor = 0.4
+	}
+	division= {			
+		name = "Santiago Police Units"		
+		location = 1550
+		division_template = "Guards of the Revolution"		
+		start_experience_factor = 0.4
+	}
+}

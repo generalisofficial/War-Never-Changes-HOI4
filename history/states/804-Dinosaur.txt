@@ -1,13 +1,17 @@
+
 state={
 	id=804
 	name="STATE_804"
+
 	history={
 		owner = XXX
+
 	}
+
 	provinces={
-		3869 6887 10535 
+		1756 3869 4742 6887 10535 
 	}
 	manpower=62
 	buildings_max_level_factor=1.000
-    state_category=wasteland
+	state_category=wasteland
 }

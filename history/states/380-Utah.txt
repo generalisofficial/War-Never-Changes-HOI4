@@ -2,11 +2,14 @@
 state={
 	id=380
 	name="STATE_380"
+
 	history={
 		owner = XXX
-                }
+
+	}
+
 	provinces={
-		1740 1756 4742 12699 
+		1740 12699 
 	}
 	manpower=1342
 	buildings_max_level_factor=1.000

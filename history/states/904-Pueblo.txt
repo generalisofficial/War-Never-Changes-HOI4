@@ -4,17 +4,18 @@ state={
 	name="STATE_904"
 
 	history={
-		owner = CEL
+		owner = BTX
 		buildings = {
 			infrastructure = 2
 
 		}
+		add_core_of = BTX
 		add_core_of = CEL
 
 	}
 
 	provinces={
-		1738 12627 
+		1738 4586 12627 
 	}
 	manpower=64
 	buildings_max_level_factor=1.000
