@@ -131,8 +131,8 @@ CCA = {
 }
 
 CEL = {
-	color = rgb { 125 3 24 }
-	color_ui = rgb { 163 5 31 }
+	color = rgb { 201 26 43 }
+	color_ui = rgb { 201 26 43 }
 }
 
 FRE = {

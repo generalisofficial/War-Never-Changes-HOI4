@@ -56,7 +56,7 @@ set_politics = {
 	}
 	
 	ruling_party = democratic
-	last_election = "2276.11.6"
+	last_election = "2278.11.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
