@@ -1,3 +1,4 @@
+
 state={
 	id=743
 	name="STATE_743"
@@ -5,15 +6,19 @@ state={
 		steel=12.000
 		aluminium=14.000
 	}
+
 	history={
 		owner = NCR
 		add_core_of = NCR
-        buildings = {
+		buildings = {
 			infrastructure = 3
+
 		}
+
 	}
+
 	provinces={
-		9911 13344 13345 13347 13348 13378 
+		9911 13347 13348 13378 
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000

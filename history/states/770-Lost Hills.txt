@@ -2,14 +2,10 @@
 state={
 	id=770
 	name="STATE_770"
-	manpower = 3954
-	
-	state_category = metropolis
-	
 	resources={
-		tungsten=300
-		steel=200
-		oil=85
+		tungsten=300.000
+		steel=200.000
+		oil=85.000
 	}
 
 	history={
@@ -19,22 +15,19 @@ state={
 			arms_factory = 4
 			industrial_complex = 4
 
-
 		}
-                add_claim_by = NCR
+		add_claim_by = NCR
 		add_core_of = BOS
-		
-		
-			victory_points = {
+		victory_points = {
 			4518 30 
 		}
-		
 
 	}
-	
-
 
 	provinces={
-	  4518
+		4518 13344 13345 
 	}
+	manpower=3954
+	buildings_max_level_factor=1.000
+	state_category=metropolis
 }

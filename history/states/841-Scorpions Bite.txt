@@ -1,0 +1,23 @@
+
+state={
+	id=841
+	name="STATE_841"
+
+	history={
+		owner = BMW
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = BMW
+		add_core_of = CEL
+
+	}
+
+	provinces={
+		1809 7780 11772 12570 12642 
+	}
+	manpower=226
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

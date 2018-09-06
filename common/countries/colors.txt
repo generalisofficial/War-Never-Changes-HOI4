@@ -321,8 +321,8 @@ BTS = {
 }
 
 BTX = {
-	color = rgb { 85 30 20 }
-	color_ui = rgb { 85 30 20 }
+	color = rgb { 135 0 0 }
+	color_ui = rgb { 135 0 0 }
 }
 
 TPF = {
