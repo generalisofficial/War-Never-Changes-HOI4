@@ -131,8 +131,8 @@ CCA = {
 }
 
 CEL = {
-	color = rgb { 201 26 43 }
-	color_ui = rgb { 201 26 43 }
+	color = rgb { 201 0 0 }
+	color_ui = rgb { 201 0 0 }
 }
 
 FRE = {
@@ -321,8 +321,8 @@ BTS = {
 }
 
 BTX = {
-	color = rgb { 135 0 0 }
-	color_ui = rgb { 135 0 0 }
+	color = rgb { 145 10 10 }
+	color_ui = rgb { 145 10 10 }
 }
 
 TPF = {
