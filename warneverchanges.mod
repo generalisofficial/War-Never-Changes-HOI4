@@ -11,4 +11,5 @@ supported_version="1.5.4"
 
 replace_path="common/bookmarks"
 replace_path="common/national_focus"
+replace_path="common/ai_strategy"
 replace_path="history/countries"

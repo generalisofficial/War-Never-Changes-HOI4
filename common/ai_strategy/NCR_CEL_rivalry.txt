@@ -1,0 +1,35 @@
+ncr_rivalry_strategy = {
+    enable = {
+        original_tag = NCR
+    }
+	abort = {
+    } 
+    ai_strategy = {
+        type = contain
+        id = "CEL"
+        value = 2000
+    }
+	ai_strategy = {
+        type = antagonize
+        id = "CEL"
+        value = 2000
+    } 
+}
+
+ncr_rivalry_strategy = {
+    enable = {
+        original_tag = CEL
+    }
+	abort = {
+    } 
+    ai_strategy = {
+        type = contain
+        id = "NCR"
+        value = 2000
+    }
+	ai_strategy = {
+        type = antagonize
+        id = "NCR"
+        value = 2000
+    } 
+}
