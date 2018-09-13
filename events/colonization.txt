@@ -7,11 +7,14 @@ country_event = {
     is_triggered_only = yes 
 
     immediate = {
-        var:state_to_colonize = {
-            set_state_owner = FROM
-            set_state_controller = FROM
+        ROOT = {
+            set_state_owner = state_to_colonize
+            set_state_controller = state_to_colonize
         }
         clr_country_flag = colonization_ongoing
+        var:state_to_colonize = {
+            clr_state_flag = being_colonized
+        }
         clear_variable = state_to_colonize
     }
 }

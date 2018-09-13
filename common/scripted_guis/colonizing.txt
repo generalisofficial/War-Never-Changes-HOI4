@@ -14,10 +14,13 @@ scripted_gui = {
 			colonizing_button_click = {
 				ROOT = {
 					set_variable = { show_colonizing = 1 }
+					set_variable = { country_colonizing = ROOT.id }
 				}
-				ROOT = { 
-					set_variable = { state_to_colonize = PREV.id }
-                }
+				set_variable = { global.state_to_colonize = THIS.id }
+				ROOT = {
+					set_variable = { state_to_colonize = global.state_to_colonize }
+				}
+				clear_variable = global.state_to_colonize
 			}
 		}
 
@@ -47,6 +50,9 @@ scripted_gui = {
 					id = colonizing.1 days = 30 random = 1
 				}
 				set_variable = { show_colonizing = 0 }
+				var:state_to_colonize = {
+					set_state_flag = being_colonized
+				}
 			}
 
 			close_button_click = {
@@ -60,6 +66,11 @@ scripted_gui = {
                     has_political_power > 200
                     NOT = { has_country_flag = colonization_ongoing }
                 }
+				NOT = {
+					var:state_to_colonize = {
+						has_state_flag = being_colonized
+					}
+				}
             }
         }
 	}

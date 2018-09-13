@@ -1,6 +1,14 @@
 ﻿defined_text = {
 	name = GetColonizationStatus
 	
+	text = {
+		trigger = {
+			var:state_to_colonize = {
+                has_state_flag = being_colonized
+			}
+		}
+		localization_key = Colonization_Others_Colonizing
+	}
     text = {
 		trigger = {
 			ROOT = {
