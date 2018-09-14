@@ -16,7 +16,7 @@ ncr_rivalry_strategy = {
     } 
 }
 
-ncr_rivalry_strategy = {
+cel_rivalry_strategy = {
     enable = {
         original_tag = CEL
     }

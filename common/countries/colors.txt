@@ -456,7 +456,7 @@ PLO = {
 	color_ui = rgb { 70 70 70 }
 }
 
-
-
-
-
+TLC = {
+	color = rgb { 40 40 40 }
+	color_ui = rgb { 40 40 40 }
+}
