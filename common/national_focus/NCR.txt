@@ -462,7 +462,6 @@ focus_tree = {
 		y = 1
 		cost = 10
 		prerequisite = { focus = ncr_election_2282 }
-		mutually_exclusive = { focus = ncr_keepoldgov }
 		mutually_exclusive = { focus = ncr_republicans }
 		ai_will_do = {
 			factor = 0
@@ -474,7 +473,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = ncr_followers
+		id = ncr_baja_policy
 		icon = GFX_focus_research
 		x = 8
 		y = 2
@@ -518,32 +517,12 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = ncr_keepoldgov
-		icon = GFX_goal_support_democracy
-		x = 10
-		y = 1
-		cost = 10
-		prerequisite = { focus = ncr_election_2282 }
-		mutually_exclusive = { focus = ncr_brahmin_barons }
-		mutually_exclusive = { focus = ncr_republicans }
-		ai_will_do = {
-			factor = 10
-		}
-
-		available_if_capitulated = yes
-
-		completion_reward = {
-			add_political_power = 150
-		}
-	}
-	
-	focus = {
 		id = ncr_revaluencrdollars
 		icon = GFX_goal_generic_national_unity
 		x = 10
 		y = 2
 		cost = 10
-		prerequisite = { focus = ncr_keepoldgov }
+		prerequisite = { focus = ncr_republicans }
 		ai_will_do = {
 			factor = 10
 		}
@@ -576,7 +555,7 @@ focus_tree = {
 		x = 14
 		y = 2
 		cost = 10
-		prerequisite = { focus = ncr_keepoldgov }
+		prerequisite = { focus = ncr_republicans }
 		ai_will_do = {
 			factor = 10
 		}
@@ -593,7 +572,7 @@ focus_tree = {
 		x = 16
 		y = 2
 		cost = 10
-		prerequisite = { focus = ncr_keepoldgov }
+		prerequisite = { focus = ncr_republicans }
 		ai_will_do = {
 			factor = 10
 		}
@@ -624,7 +603,6 @@ focus_tree = {
 		id = ncr_republicans
 		icon = GFX_goal_generic_military_sphere
 		prerequisite = { focus = ncr_election_2282 }
-		mutually_exclusive = { focus = ncr_keepoldgov }
 		mutually_exclusive = { focus = ncr_brahmin_barons }
 		x = 12
 		y = 1

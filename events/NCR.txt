@@ -1,0 +1,28 @@
+﻿add_namespace = NCR
+
+#Brahmin Barons - Baja Policy
+country_event = {
+	id = NCR.1
+	title = NCR.1.t
+	desc = NCR.1.d
+	picture = GFX_report_event_election_vote
+	
+	is_triggered_only = yes
+	
+	option = {	#Launch attack on La Paz
+		name = NCR.1.o1
+		ai_chance = {
+			factor = 1
+		}
+		
+		add_political_power = 20
+	}
+	
+	option = {	#Withdraw from Baja California
+		name = NCR.1.o2
+		ai_chance = {
+			factor = 1
+		}
+		SNL = { transfer_state = 806 }
+	}
+}
