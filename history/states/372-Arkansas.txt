@@ -2,18 +2,15 @@
 state={
 	id=372
 	name="STATE_372"
-	resources={
-		aluminium=20.000
-	}
 
 	history={
-		owner = USA
+		owner = CKE
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 3
+			industrial_complex = 1
 
 		}
-		add_core_of = USA
+		add_core_of = CKE
 		victory_points = {
 			12489 1 
 		}
@@ -23,7 +20,7 @@ state={
 	provinces={
 		4444 4567 4597 7586 10477 
 	}
-	manpower=1854481
+	manpower=1268
 	buildings_max_level_factor=1.000
 	state_category=town
 }
