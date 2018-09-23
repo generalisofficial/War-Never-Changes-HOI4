@@ -175,11 +175,6 @@ PRI = {
 	color_ui = rgb { 160 150 30 }
 }
 
-TAB = {
-	color = rgb { 35 105 15 }
-	color_ui = rgb { 35 105 15 }
-}
-
 GEC = {
 	color = rgb { 50 100 30 }
 	color_ui = rgb { 50 100 30 }
@@ -464,4 +459,9 @@ PLO = {
 TLC = {
 	color = rgb { 40 40 40 }
 	color_ui = rgb { 40 40 40 }
+}
+
+CKE = {
+	color = rgb { 255 255 102 } 
+	color_ui = rgb { 255 255 102 }
 }

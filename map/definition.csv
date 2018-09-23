@@ -13389,3 +13389,5 @@
 13388;145;255;244;land;false;urban;2
 13389;165;255;86;land;false;plains;2
 13390;255;247;196;land;true;plains;0
+13391;0;0;200;lake;false;lakes;0
+13392;0;100;255;lake;false;lakes;0

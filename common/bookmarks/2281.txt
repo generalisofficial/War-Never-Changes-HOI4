@@ -63,17 +63,6 @@ bookmarks = {
 			
 			}
 		}
-		"TAB"={
-			minor = yes
-			history = "TAB_DESC"
-			ideology = fascism
-			ideas = {
-			
-			}
-			focuses = {
-			
-			}
-		}
 		"MKA"={
 			minor = yes
 			history = "MKA_DESC"

@@ -178,13 +178,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 823;4657;impassable;-1;-1;-1;-1;-1;;mojave desert east
 823;10387;impassable;-1;-1;-1;-1;-1;;mojave desert east
 823;4727;impassable;-1;-1;-1;-1;-1;;mojave desert east
-13299;4657;impassable;-1;-1;-1;-1;-1;;mojave desert east
+823;13216;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;4727;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;13206;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;13305;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;13234;impassable;-1;-1;-1;-1;-1;;mojave desert east
 13299;13228;impassable;-1;-1;-1;-1;-1;;mojave desert east
-13299;11814;impassable;-1;-1;-1;-1;-1;;mojave desert east
+13299;13216;impassable;-1;-1;-1;-1;-1;;mojave desert east
 7667;13237;impassable;-1;-1;-1;-1;-1;;the divide
 7667;13240;impassable;-1;-1;-1;-1;-1;;the divide
 4521;13240;impassable;-1;-1;-1;-1;-1;;the divide
