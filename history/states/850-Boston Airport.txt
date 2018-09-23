@@ -2,12 +2,10 @@ state={
 	id=850
 	name="STATE_850"
 	history={
-		owner = FEG
+		owner = WST
 		buildings = {
-			infrastructure = 4
                         air_base = 10
 		}
-                add_core_of = FEG
 		victory_points = {
 		     13269 5 
 		}
@@ -19,5 +17,5 @@ state={
 	}
 	manpower=312
 	buildings_max_level_factor=1.000
-        state_category=city
+        state_category=wasteland
 }
