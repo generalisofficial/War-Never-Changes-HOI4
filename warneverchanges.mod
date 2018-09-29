@@ -1,4 +1,4 @@
-name="War Never Changes"
+name="War Never Changes (Early WIP)"
 path="mod/War-Never-Changes-HOI4/"
 tags={
 	"Alternative History"

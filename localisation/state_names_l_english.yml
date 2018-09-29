@@ -879,7 +879,7 @@
  STATE_878:0 "Outpost Zimonja"
  STATE_879:0 "BADTFL Regional Office"
  STATE_880:0 "Nuka-Cola Plant"
- STATE_881:0 "Nevada"
+ STATE_881:0 "Republic of Dave"
  STATE_882:0 "Dickinson"
  STATE_883:0 "Quincy"
  STATE_884:0 "Western Mississippi"
@@ -990,4 +990,3 @@
  STATE_989:0 "Ark & Dove Cathedral"
  STATE_990:0 "Adams Air Force Base"
  STATE_991:0 "Sacred Bog"
- STATE_992:0 "Republic of Dave"

@@ -2,15 +2,17 @@
 state={
 	id=379
 	name="STATE_379"
-	manpower = 0
-	
-	state_category = rural
-	
-	resources={
-	
+
+	history={
+		owner = USA
+
 	}
 
 	provinces={
-		
+		4607 4736 4816 7879 10422 12134 12399 
 	}
+	manpower=6000
+	buildings_max_level_factor=1.000
+	state_category=town
 }
+
