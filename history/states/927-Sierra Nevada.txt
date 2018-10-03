@@ -1,14 +1,17 @@
+
 state={
 	id=927
 	name="STATE_927"
-                history={
-		owner = NCR
+
+	history={
+		owner = XXX
+
 	}
+
 	provinces={
-		13323 
+		734 1436 3702 3733 3747 6707 6717 9664 9708 11650 11654 11680 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
-                state_category=wasteland
-                impassable=yes
+	state_category=wasteland
 }

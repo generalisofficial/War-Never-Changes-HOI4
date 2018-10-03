@@ -1,17 +1,22 @@
+
 state={
 	id=802
 	name="STATE_802"
+
 	history={
 		owner = CEL
 		buildings = {
 			infrastructure = 1
+
 		}
 		add_core_of = CEL
+
 	}
+
 	provinces={
-		7764 7818 
+		7764 7818 13341 13377 
 	}
 	manpower=1278
 	buildings_max_level_factor=1.000
-        state_category=rural
+	state_category=rural
 }

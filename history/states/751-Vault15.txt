@@ -2,38 +2,24 @@
 state={
 	id=751
 	name="STATE_751"
-	manpower = 100
-	
-	state_category = rural
-	
 	resources={
-		oil=10
-		aluminium=10
+		oil=10.000
+		aluminium=10.000
 	}
 
 	history={
-		owner = NCR
+		owner = XXX
 		buildings = {
 			infrastructure = 1
 
-			industrial_complex = 1
-			
-			
-
-		}
-		add_core_of = NCR
-                add_core_of = KHA
-		
-
-				victory_points = {
-			4521 1 
 		}
 
 	}
-	
-
 
 	provinces={
-	   4521
+		706 3806 3894 6911 9673 9693 9774 11660 
 	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

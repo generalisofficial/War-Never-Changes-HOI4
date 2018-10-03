@@ -2,38 +2,25 @@
 state={
 	id=764
 	name="STATE_764"
-	manpower = 4000
-	
-	state_category = city
-	
 	resources={
-		steel=100
-		tungsten=150
-		aluminium=60
+		steel=100.000
+		tungsten=150.000
+		aluminium=60.000
 	}
 
 	history={
-		owner = NCR
+		owner = XXX
 		buildings = {
 			infrastructure = 4
-			arms_factory = 4
-			industrial_complex = 2
-
 
 		}
-		add_core_of = KHA
-                add_core_of = NCR
-		
-			victory_points = {
-			7667 15 
-		}
-		
 
 	}
-	
-
 
 	provinces={
-	  7667
+		598 3602 6778 6795 6916 9721 9754 10381 11662 11665 11722 
 	}
+	manpower=4000
+	buildings_max_level_factor=1.000
+	state_category=city
 }

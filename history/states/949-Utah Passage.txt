@@ -1,17 +1,21 @@
+
 state={
 	id=949
 	name="STATE_949"
+
 	history={
-		owner = WTL
+		owner = XXX
 		buildings = {
 			infrastructure = 3
+
 		}
-		add_core_of = WTL
+
 	}
+
 	provinces={
-		13341 
+		709 751 4854 5205 10599 
 	}
 	manpower=12
 	buildings_max_level_factor=1.000
-                state_category=enclave
+	state_category=enclave
 }
