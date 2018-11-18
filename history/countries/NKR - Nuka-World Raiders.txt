@@ -12,7 +12,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 40
+			popularity = 20
 		}
 
 		fascism = {
@@ -24,11 +24,11 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 20
+			popularity = 40
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "2281.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -37,7 +37,7 @@ set_politics = {
 create_country_leader = {
 	name = "Colter"
 	picture = "Colter.dds"
-	ideology = conservatism
+	ideology = authoritarian_democracy
 }
 
 create_country_leader = {
@@ -55,5 +55,5 @@ create_country_leader = {
 create_country_leader = {
 	name = "Mags Black"
 	picture = "Mags.dds"
-	ideology = oligarchism
+	ideology = conservatism
 }
