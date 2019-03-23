@@ -2,14 +2,14 @@ state={
 	id=938
 	name="STATE_938"
             history={
-		owner = HPT
+		owner = WST
 		buildings = {
 			infrastructure = 1
 		}
                                victory_points = {
 		     13332 1 
 		}
-                     add_core_of = HPT
+                     add_core_of = WST
                      add_claim_by = WTL
 	}  
 	provinces={

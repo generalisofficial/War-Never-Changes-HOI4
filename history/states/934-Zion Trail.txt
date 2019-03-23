@@ -2,11 +2,11 @@ state={
 	id=934
 	name="STATE_934"
                 history={
-		owner = HPT
+		owner = WST
 		buildings = {
 			infrastructure = 1
 		}
-                     add_core_of = HPT
+                     add_core_of = WST
 	}  
 	provinces={
 		13330 13331 
