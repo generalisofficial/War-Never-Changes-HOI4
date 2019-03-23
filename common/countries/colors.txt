@@ -200,11 +200,6 @@ IST = {
 	color_ui = rgb { 255 255 255 }
 }
 
-MLR = {
-	color = rgb { 139 69 19 }
-	color_ui = rgb { 139 69 19 }
-}
-
 ABN = {
 	color = rgb { 150 10 30 }
 	color_ui = rgb { 150 10 30 }

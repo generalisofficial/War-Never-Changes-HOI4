@@ -3,7 +3,7 @@ state={
 	id=545
 	name="STATE_545"
 	resources={
-		uranium=64.000
+		chromium=64.000
 		tungsten=16.000
 	}
 

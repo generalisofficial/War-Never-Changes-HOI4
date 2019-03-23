@@ -30,6 +30,8 @@ ideologies = {
 		
 		}
 		
+		can_host_government_in_exile = yes
+		
 		war_impact_on_world_tension = -1.0
 		faction_impact_on_world_tension = -0.1
 		
@@ -80,6 +82,8 @@ ideologies = {
 		
 		}
 		
+		can_host_government_in_exile = yes
+		
 		modifiers = {
 		
 		}
@@ -124,6 +128,8 @@ ideologies = {
 		rules = {
 		
 		}
+		
+		can_host_government_in_exile = yes
 		
 		modifiers = {
 		
@@ -170,6 +176,8 @@ ideologies = {
 		rules = {
 		
 		}
+		
+		can_host_government_in_exile = yes
 		
 		modifiers = {
 		
