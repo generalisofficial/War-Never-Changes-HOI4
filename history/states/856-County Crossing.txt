@@ -2,11 +2,11 @@ state={
 	id=856
 	name="STATE_856"
 	history={
-		owner = RAI
+		owner = WST
 		buildings = {
 			infrastructure = 2
 		}
-        add_core_of = RAI
+        add_core_of = WST
 		victory_points = {
 		     13275 1 
 		}
