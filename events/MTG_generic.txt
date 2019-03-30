@@ -166,10 +166,6 @@ country_event = {
 				}
 			}
 			effect_tooltip = {
-				add_timed_idea = {
-					idea = political_turmoil
-					days = 365
-				}
 				set_politics = {
 					ruling_party = neutrality
 					elections_allowed = no
@@ -183,10 +179,6 @@ country_event = {
 				}
 			}
 			effect_tooltip = {
-				add_timed_idea = {
-					idea = political_turmoil
-					days = 365
-				}
 				set_politics = {
 					ruling_party = democratic
 					elections_allowed = yes
@@ -200,10 +192,6 @@ country_event = {
 				}
 			}
 			effect_tooltip = {
-				add_timed_idea = {
-					idea = political_turmoil
-					days = 365
-				}
 				set_politics = {
 					ruling_party = fascism
 					elections_allowed = no
@@ -217,10 +205,6 @@ country_event = {
 				}
 			}
 			effect_tooltip = {
-				add_timed_idea = {
-					idea = political_turmoil
-					days = 365
-				}
 				set_politics = {
 					ruling_party = communism
 					elections_allowed = no
