@@ -2,12 +2,12 @@ state={
 	id=859
 	name="STATE_859"
 	history={
-		owner = RAI
+		owner = MUT
 		buildings = {
-			infrastructure = 5
+			infrastructure = 2
                         industrial_complex = 1
 		}
-                add_core_of = RAI
+                add_core_of = MUT
 		victory_points = {
 		     13277 1 
 		}
@@ -19,5 +19,5 @@ state={
 	}
 	manpower=76
 	buildings_max_level_factor=1.000
-        state_category=city
+        state_category=town
 }
